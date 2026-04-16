@@ -38,7 +38,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
-        p.mb-4.mb-lg-0 El plan estratégico organizacional está compuesto por elementos que orientan la toma de decisiones en todas las áreas funcionales, incluyendo el marketing digital. Estos componentes permiten traducir la visión corporativa en acciones concretas y medibles. La siguiente tabla presenta los principales componentes del plan estratégico organizacional y su incidencia directa en la planeación del contenido digital, evidenciando cómo la estrategia empresarial se traduce en decisiones comunicacionales estructuradas.
+        p.mb-4.mb-lg-0 El plan estratégico organizacional está compuesto por elementos que orientan la toma de decisiones en todas las áreas funcionales, incluyendo el #[em marketing] digital. Estos componentes permiten traducir la visión corporativa en acciones concretas y medibles. La siguiente tabla presenta los principales componentes del plan estratégico organizacional y su incidencia directa en la planeación del contenido digital, evidenciando cómo la estrategia empresarial se traduce en decisiones comunicacionales estructuradas.
       .col-sm-8.col-lg-4
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/3.png", alt="")
@@ -93,7 +93,65 @@
     
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3 Estructura
+    .fullwidth-bg.fullwidth-bg--1
+    img(data-aos="fade-up")(src="@/assets/curso/tema1/5.png", alt="").z-2
+    
+    .row.justify-content-center.z-2
+      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+        div.banner-text
+          p.mb-0 La estructura del plan estratégico organizacional sigue un proceso metodológico sistemático que permite coherencia y control. Este proceso comprende diagnóstico, formulación, implementación y evaluación. En términos operativos, esta secuencia garantiza que las decisiones comunicacionales no sean improvisadas, sino el resultado de análisis estructurado.
 
+    p.mb-4.mb-lg-5 En la fase de diagnóstico se analizan variables internas y externas, tales como recursos, capacidades, competencia y comportamiento del mercado. En el contexto digital, este diagnóstico puede revelar, por ejemplo, que la audiencia objetivo interactúa principalmente en formatos de video corto, lo que condiciona la selección de formatos y plataformas.
+
+    .row.justify-content-center.align-items-center.mb-4.z-2
+      .col-sm-8.col-lg-4
+        figure
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/6.png", alt="")
+      .col-lg-8
+        .p-4.rounded-4.bg-primario-p5.mb-4
+          p.mb-0 Durante la formulación estratégica se establecen objetivos y líneas de acción. Si la organización define como meta aumentar sus ventas en línea en un 25 % durante un semestre, el contenido digital deberá diseñarse para dirigir tráfico hacia plataformas de comercio electrónico, incorporar llamados a la acción claros y utilizar testimonios que refuercen la confianza.
+        p.mb-0 En la fase de implementación se ejecutan las estrategias mediante calendarios editoriales, campañas pagas y producción de piezas multimedia. Finalmente, en la evaluación se miden resultados mediante indicadores como alcance, tasa de interacción, generación de prospectos y conversión. Este ciclo continuo permite ajustar la estrategia y optimizar la inversión en #[em marketing] digital.
+    .p-4.rounded-4.bg-secundario-s5.mb-4
+      p.mb-0 Así, la planeación del contenido digital se convierte en una extensión operativa del plan estratégico organizacional, asegurando coherencia entre visión corporativa, posicionamiento de marca y resultados comerciales.
+    
+    .row.justify-content-center.align-items-center.z-2.mb-5
+      .col-lg-10.col-xl-8
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 1.
+          span Proceso del plan estratégico organizacional
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/7-mob.svg", alt="La figura 1 representa 4 fases del proceso del plan estratégico organizacional.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/7.svg", alt="La figura 1 representa 4 fases del proceso del plan estratégico organizacional.")
+        figcaption Nota. SENA, (2026).
+
+    .fullwidth-bg.fullwidth-bg--1
+    img(data-aos="fade-up")(src="@/assets/curso/tema1/8.png", alt="").z-2
+    
+    .row.justify-content-center.z-2
+      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+        div.banner-text
+          p.mb-0 Por ejemplo, Apple ha construido su plan estratégico alrededor de la diferenciación, el diseño y la experiencia #[em premium]. En consecuencia, su contenido en redes sociales no se centra en descuentos agresivos, sino en destacar innovación, estética, minimalismo y valor aspiracional. Esto demuestra coherencia entre estrategia organizacional y narrativa digital.
+
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+      .col-sm-10.col-lg-5
+        figure
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/9.png", alt="")
+      .col-lg-7
+        .p-4.rounded-4.bg-primario-p5
+          p.mb-0 De manera similar, Nike orienta su plan estratégico hacia el liderazgo emocional, el rendimiento y la inspiración deportiva. Su contenido en plataformas digitales no se limita a mostrar productos, sino que comunica historias de superación, disciplina y empoderamiento. Esa alineación estratégica permite que cada publicación refuerce el posicionamiento global de la marca y fortalezca su conexión con segmentos específicos del mercado.
+
+    .p-4.rounded-4.bg-terciario-t20.mb-4
+      .row.justify-content-center.align-items-center.z-2
+        .col-xl-1.d-none.d-xl-block
+          figure
+            img(data-aos="fade-down-right", src="@/assets/curso/tema1/10.png", alt="")
+        .col-lg-9.col-xl-9
+          p.mb-4.mb-lg-0 Para comprender mejor cómo se estructura un plan estratégico de mercadeo de contenidos, le sugerimos ir al siguiente video que le permitirá facilitar la aplicación de estos conceptos en el desarrollo del plan de contenido digital para redes sociales propuesto en la actividad formativa: 
+        .col-lg-3.col-xl-2
+          a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=Wd7BqFHlxSY", target="_blank")
+            span Abrir video
+            i.fas.fa-play-circle
+            
+    
 </template>
 
 <script>
