@@ -86,6 +86,7 @@ figcaption, caption
 .bg-terciario-t20
   background-color: $color-terciario-t20
 
+
 .fullwidth-bg
   display: none
   @media screen and (min-width: 768px)
@@ -98,3 +99,63 @@ figcaption, caption
     left: -50px
     position: absolute
     content: url('../assets/curso/common/bg-1.png')
+
+table
+  tbody
+    tr,th,td
+      text-align: start !important
+
+.w-90
+  width: 90px !important
+  margin: 0 auto
+
+.w-100
+  width: 100px !important
+  margin: 0 auto
+
+.w-125
+  width: 125px !important
+  margin: 0 auto
+
+.w-190
+  width: 190px !important
+  margin: 0 auto
+
+.tarjeta-avatar > img
+  transform: translate(-50%, 20%)
+
+.tarjeta-avatar 
+  padding-top: 60px !important
+  .tarjeta
+    padding-top: 30px !important
+
+//Icon-Tarjeta
+.icon-tarjeta
+  position: relative
+  background-color: #F0F3FD
+  border: 3px solid #678AEE
+  border-radius: 20px
+  &__imagen
+    position: absolute
+    left: 0
+    top: 0
+    transform: translate(-50%, -20%)
+  &__text
+  &.color-primario
+    background-color: $color-primario-p5
+    border-color: $color-primario
+    
+.accesibilidad
+  z-index: 3
+
+.tabs-a
+  &__tab
+    background-color: $color-terciario-t20
+  .tarjeta
+    background-color: $color-terciario-t20
+    height: 100%
+    display: flex
+    flex-direction: column
+    justify-content: center
+  &__content-item
+    height: 100%
