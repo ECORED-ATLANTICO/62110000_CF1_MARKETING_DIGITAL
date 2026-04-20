@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Mezcla de mercadeo
     
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema3/1.png", alt="").z-2

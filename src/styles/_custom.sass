@@ -80,12 +80,21 @@ figcaption, caption
 .bg-primario-p5
   background-color: $color-primario-p5
 
+.bg-primario-p10
+  background-color: $color-primario-p10
+
 .bg-secundario-s5
   background-color: $color-secundario-s5
 
 .bg-terciario-t20
   background-color: $color-terciario-t20
 
+.bg-audio
+  background-color: $color-acento-contenido
+  background-image: url("../assets/curso/tema4/21.png") !important
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center
 
 .fullwidth-bg
   display: none
@@ -117,6 +126,10 @@ table
   width: 125px !important
   margin: 0 auto
 
+.w-155
+  width: 155px !important
+  margin: 0 auto
+
 .w-190
   width: 190px !important
   margin: 0 auto
@@ -144,6 +157,11 @@ table
   &.color-primario
     background-color: $color-primario-p5
     border-color: $color-primario
+
+  &--imagen-centrada
+    .icon-tarjeta__imagen
+      top: 50%
+      transform: translate(-50%, -50%)
     
 .accesibilidad
   z-index: 3
@@ -159,3 +177,31 @@ table
     justify-content: center
   &__content-item
     height: 100%
+
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: $color-primario-p10
+      h4
+        color: $color-sistema-texto
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: $color-primario-p10
+    text-align: center
+
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em

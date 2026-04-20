@@ -115,6 +115,24 @@
     .tarjeta-audio__tiempo
       color: $color-secundario
 
+  &.color-terciario
+    border-color: $color-terciario
+    .tarjeta-audio__texto
+      color: $color-terciario
+    .tarjeta-audio__input
+      input[type=range]
+        background: rgba($color-terciario, 0.2)
+        background-image: linear-gradient($color-terciario, $color-terciario)
+        &::-webkit-slider-runnable-track
+          background: rgba($color-terciario, 0.2)
+        &::-webkit-slider-thumb
+          background-color: $color-terciario
+        &::-moz-range-thumb
+          background-color: $color-terciario
+          background-image: linear-gradient($color-terciario, $color-terciario)
+    .tarjeta-audio__tiempo
+      color: $color-terciario
+
   &.color-acento-contenido
     border-color: $color-acento-contenido
     .tarjeta-audio__texto
