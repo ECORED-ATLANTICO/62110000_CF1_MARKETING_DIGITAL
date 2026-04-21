@@ -122,77 +122,72 @@ export default {
           { numero: '8.1', titulo: 'Concepto', hash: 't_8_1' },
           { numero: '8.2', titulo: 'Metodología', hash: 't_8_2' },
           { numero: '8.3', titulo: 'Aplicabilidad', hash: 't_8_3' },
+          { numero: '8.4', titulo: 'Arquitectura web', hash: 't_8_4' },
         ],
       },
       {
         nombreRuta: 'tema9',
         numero: '9',
-        titulo: 'Arquitectura web',
+        titulo: 'Consumidor digital',
         desarrolloContenidos: true,
+        subMenu: [
+          { numero: '9.1', titulo: 'Concepto', hash: 't_9_1' },
+          { numero: '9.2', titulo: 'Comportamiento', hash: 't_9_2' },
+          { numero: '9.3', titulo: 'Variables', hash: 't_9_3' },
+        ],
       },
       {
         nombreRuta: 'tema10',
         numero: '10',
-        titulo: 'Consumidor digital',
+        titulo: '<em>Insights</em>',
         desarrolloContenidos: true,
         subMenu: [
           { numero: '10.1', titulo: 'Concepto', hash: 't_10_1' },
-          { numero: '10.2', titulo: 'Comportamiento', hash: 't_10_2' },
-          { numero: '10.3', titulo: 'Variables', hash: 't_10_3' },
+          { numero: '10.2', titulo: 'Aplicabilidad', hash: 't_10_2' },
         ],
       },
       {
         nombreRuta: 'tema11',
         numero: '11',
-        titulo: '<em>Insights</em>',
+        titulo: 'Conversión',
         desarrolloContenidos: true,
         subMenu: [
           { numero: '11.1', titulo: 'Concepto', hash: 't_11_1' },
-          { numero: '11.2', titulo: 'Aplicabilidad', hash: 't_11_2' },
+          { numero: '11.2', titulo: 'Tasa', hash: 't_11_2' },
+          { numero: '11.3', titulo: 'Aplicabilidad', hash: 't_11_3' },
         ],
       },
       {
         nombreRuta: 'tema12',
         numero: '12',
-        titulo: 'Conversión',
+        titulo: 'SEM (<em>Search Engine Marketing</em>)',
         desarrolloContenidos: true,
         subMenu: [
           { numero: '12.1', titulo: 'Concepto', hash: 't_12_1' },
-          { numero: '12.2', titulo: 'Tasa', hash: 't_12_2' },
+          { numero: '12.2', titulo: 'Estrategias', hash: 't_12_2' },
           { numero: '12.3', titulo: 'Aplicabilidad', hash: 't_12_3' },
         ],
       },
       {
         nombreRuta: 'tema13',
         numero: '13',
-        titulo: 'SEM (<em>Search Engine Marketing</em>)',
+        titulo: 'SEO (<em>Search Engine Optimization</em>)',
         desarrolloContenidos: true,
         subMenu: [
           { numero: '13.1', titulo: 'Concepto', hash: 't_13_1' },
-          { numero: '13.2', titulo: 'Estrategias', hash: 't_13_2' },
+          { numero: '13.2', titulo: 'Técnicas', hash: 't_13_2' },
           { numero: '13.3', titulo: 'Aplicabilidad', hash: 't_13_3' },
         ],
       },
       {
         nombreRuta: 'tema14',
         numero: '14',
-        titulo: 'SEO (<em>Search Engine Optimization</em>)',
-        desarrolloContenidos: true,
-        subMenu: [
-          { numero: '14.1', titulo: 'Concepto', hash: 't_14_1' },
-          { numero: '14.2', titulo: 'Técnicas', hash: 't_14_2' },
-          { numero: '14.3', titulo: 'Aplicabilidad', hash: 't_14_3' },
-        ],
-      },
-      {
-        nombreRuta: 'tema15',
-        numero: '15',
         titulo: 'SMO (<em>Social Media Optimization</em>)',
         desarrolloContenidos: true,
         subMenu: [
-          { numero: '15.1', titulo: 'Concepto', hash: 't_15_1' },
-          { numero: '15.2', titulo: 'Acciones', hash: 't_15_2' },
-          { numero: '15.3', titulo: 'Aplicabilidad', hash: 't_15_3' },
+          { numero: '14.1', titulo: 'Concepto', hash: 't_14_1' },
+          { numero: '14.2', titulo: 'Acciones', hash: 't_14_2' },
+          { numero: '14.3', titulo: 'Aplicabilidad', hash: 't_14_3' },
         ],
       },
     ],
@@ -241,23 +236,184 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
-    },
-  ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Alcance',
+      significado:
+        'Número total de personas únicas que visualizan un contenido digital en una plataforma determinada.',
+    },
+    {
+      termino: 'Arquitectura web',
+      significado:
+        'Estructura organizativa de un sitio web que facilita la navegación, la experiencia del usuario y la correcta indexación en buscadores.',
+    },
+    {
+      termino: 'Calendario editorial',
+      significado:
+        'Herramienta de planificación que organiza fechas, formatos y temáticas de publicación de contenidos digitales.',
+    },
+    {
+      termino: 'Comunicación online',
+      significado:
+        'Proceso de interacción bidireccional entre la marca y los usuarios a través de canales digitales.',
+    },
+    {
+      termino: 'Consumidor digital',
+      significado:
+        'Usuario que investiga, compara y toma decisiones de compra mediante plataformas y entornos digitales.',
+    },
+    {
+      termino: 'Contenido digital',
+      significado:
+        'Información creada en formato digital con fines informativos, educativos, comerciales o de posicionamiento.',
+    },
+    {
+      termino: 'Conversión',
+      significado:
+        'Acción estratégica que realiza el usuario y que cumple un objetivo de la marca, como compra o registro.',
+    },
+    {
+      termino: '<em>E-marketing</em>',
+      significado:
+        'Conjunto de estrategias de <em>marketing</em> aplicadas mediante herramientas y canales digitales.',
+    },
+    {
+      termino: 'Entorno digital',
+      significado:
+        'Ecosistema tecnológico donde interactúan usuarios, marcas, plataformas y herramientas online.',
+    },
+    {
+      termino: 'Formato digital',
+      significado:
+        'Tipo de presentación del contenido, como video, imagen, carrusel, reel, blog o infografía.',
+    },
+    {
+      termino: '<em>Insight</em>',
+      significado:
+        'Análisis profundo que revela motivaciones, necesidades o comportamientos del consumidor digital.',
+    },
+    {
+      termino: 'Interacción',
+      significado:
+        'Participación activa del usuario mediante comentarios, reacciones, clics o compartidos.',
+    },
+    {
+      termino: 'Línea editorial',
+      significado:
+        'Definición estratégica del tono, estilo y temáticas que guían la comunicación digital de la marca.',
+    },
+    {
+      termino: 'Métrica digital',
+      significado:
+        'Indicador cuantificable que permite medir el rendimiento de acciones y contenidos en línea.',
+    },
+    {
+      termino: 'Mezcla de mercadeo digital',
+      significado:
+        'Adaptación del producto, precio, plaza y promoción al contexto y dinámicas del entorno digital.',
+    },
+    {
+      termino: 'Plan estratégico digital',
+      significado:
+        'Documento que define objetivos, estrategias y acciones para posicionar la marca en medios digitales.',
+    },
+    {
+      termino: 'Posicionamiento online',
+      significado:
+        'Percepción y lugar que ocupa una marca en la mente del consumidor dentro del entorno digital.',
+    },
+    {
+      termino: 'Propuesta de valor',
+      significado:
+        'Beneficio diferencial que la marca comunica para destacar frente a la competencia.',
+    },
+    {
+      termino: 'Publicidad digital',
+      significado:
+        'Estrategias pagadas en plataformas online para promocionar productos o servicios de manera segmentada.',
+    },
+    {
+      termino: 'Público objetivo',
+      significado:
+        'Segmento específico del mercado al cual se dirigen los contenidos y estrategias digitales.',
+    },
+    {
+      termino: 'Segmentación',
+      significado:
+        'Proceso de clasificación del mercado en grupos homogéneos según características demográficas, geográficas o psicográficas.',
+    },
+    {
+      termino: 'SEM',
+      significado:
+        'Estrategias de <em>marketing</em> en motores de búsqueda mediante anuncios pagados para aumentar visibilidad.',
+    },
+    {
+      termino: 'SEO',
+      significado:
+        'Técnicas de optimización orgánica que mejoran la posición de un sitio web en los resultados de búsqueda.',
+    },
+    {
+      termino: 'SMO',
+      significado:
+        'Acciones orientadas a optimizar la presencia, visibilidad e interacción de una marca en redes sociales.',
+    },
+    {
+      termino: 'Tasa de conversión',
+      significado:
+        'Porcentaje que relaciona el número de conversiones con el total de usuarios impactados.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Cardona, A. (2023). <em>Marketing digital: Estrategias, métricas y contenidos para redes sociales</em>. Editorial UOC.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cuervo-Sánchez, C. A. (2025). Las redes sociales y los influencers como parte de la estrategia de ventas: Un análisis bibliométrico. <em>aDResearch ESIC International Journal of Communication Research</em>, <em>34</em>, e297.',
+      link:
+        'https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/297/660',
+    },
+    {
+      referencia:
+        'Gutiérrez, M., & López, J. (2022). <em>Estrategias de contenido digital: técnicas para atraer, convertir y fidelizar audiencias</em>. Ediciones Deusto.',
+      link: '',
+    },
+    {
+      referencia:
+        'Hernández, A., & Rodríguez, C. (2021). <em>Community management y social media: generación de contenido y métricas digitales</em>. Ediciones Pirámide.',
+      link: '',
+    },
+    {
+      referencia:
+        'Kotler, P., & Keller, K. L. (2016). <em>Dirección de marketing</em> (15.ª ed.). Pearson.',
+      link: '',
+    },
+    {
+      referencia:
+        'López Lazcano, M. (2025). La influencia de la publicidad en redes sociodigitales sobre los hábitos de consumo. <em>Huella de la Palabra</em>, <em>18</em>(18), 38–65.',
+      link:
+        'https://revistas.lasallep.edu.mx/index.php/huella/article/view/649/935',
+    },
+    {
+      referencia:
+        'Morales, L. (2024). <em>Marketing de contenidos en redes sociales: diseño, producción y análisis de impacto</em>. Editorial Alfaomega.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pérez, D., & Ramírez, S. (2022). <em>Analítica digital y métricas para redes sociales</em>. Ediciones McGraw Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ruiz, P. (2023). <em>Publicidad digital y normativa legal en entornos digitales</em>. Editorial UOC.',
+      link: '',
+    },
+    {
+      referencia:
+        'Sánchez, E., & Méndez, F. (2021). <em>SEO, SEM y posicionamiento de contenido para marketing digital</em>. Ediciones Paraninfo.',
       link: '',
     },
   ],
@@ -266,14 +422,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de la línea de producción',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -281,9 +438,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Mario Morales Cabrera',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'María Fernanda Morales Angulo',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -291,19 +453,24 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Andrés Felipe Herrera Roldan',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Fabio Fonseca Arguelles',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -311,14 +478,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

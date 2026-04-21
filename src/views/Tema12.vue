@@ -12,7 +12,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 El SEM es una estrategia fundamental dentro del marketing digital orientada a aumentar la visibilidad de una marca en los motores de búsqueda mediante publicidad pagada. A diferencia del posicionamiento orgánico, el SEM permite obtener resultados inmediatos al ubicar anuncios en los primeros lugares de las páginas de resultados. Su efectividad depende de la correcta selección de palabras clave, la segmentación y la optimización constante de las campañas.
+          p.mb-0 El SEM es una estrategia fundamental dentro del #[em marketing] digital orientada a aumentar la visibilidad de una marca en los motores de búsqueda mediante publicidad pagada. A diferencia del posicionamiento orgánico, el SEM permite obtener resultados inmediatos al ubicar anuncios en los primeros lugares de las páginas de resultados. Su efectividad depende de la correcta selección de palabras clave, la segmentación y la optimización constante de las campañas.
 
     Separador
     #t_12_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")

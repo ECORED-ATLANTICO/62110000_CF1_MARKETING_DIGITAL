@@ -80,7 +80,7 @@
       
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.3 variables
+      h2 3.3 Variables
 
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema3/9.png", alt="").z-2

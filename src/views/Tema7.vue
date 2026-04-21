@@ -33,47 +33,46 @@
           p.mb-0 Por ejemplo, Netflix utiliza un tono cercano y dinámico en redes sociales para conectar con públicos jóvenes, mientras que BBVA adopta un lenguaje más institucional y educativo para comunicar contenidos financieros. Esto demuestra que la comunicación #[em online] debe adaptarse al perfil del consumidor digital.
 
     Separador
-    .fullwidth-bg.fullwidth-bg--2
-      #t_7_2.titulo-segundo.color-acento-contenido(data-aos="flip-up").z-2
-        h2 7.2 Medios
+    #t_7_2.titulo-segundo.color-acento-contenido(data-aos="flip-up").z-2
+      h2 7.2 Medios
 
-      .p-4.rounded-4.bg-primario-p10.mb-5.z-2
-        p.mb-0 Los medios son los espacios digitales donde se desarrolla la interacción entre la marca y el usuario. Cada medio posee características propias que influyen en el tipo de contenido y en la estrategia comunicativa.
+    .p-4.rounded-4.bg-primario-p10.mb-5.z-2
+      p.mb-0 Los medios son los espacios digitales donde se desarrolla la interacción entre la marca y el usuario. Cada medio posee características propias que influyen en el tipo de contenido y en la estrategia comunicativa.
 
-      .row.justify-content-center.z-2
-        .col-xl-10
-          .titulo-sexto.color-acento-contenido
-            h5 Tabla 4.
-            span Medios de comunicación #[em online] y ejemplos empresariales
-          .tabla-a.color-secundario
-            table
-              caption Nota. SENA, (2026).
-              thead
-                tr(style="background-color: #F1B6FC")
-                  th Medio
-                  th Características
-                  th Ejemplo empresarial
-              tbody
-                tr
-                  td Redes sociales.
-                  td Alta interacción y viralización.
-                  td Nike genera comunidad mediante campañas motivacionales.
-                tr(style="background-color: #F6F6F6")
-                  td Sitio web corporativo.
-                  td Información institucional y conversión.
-                  td IKEA integra catálogo y tienda virtual.
-                tr
-                  td #[em Blog] empresarial.
-                  td Contenido educativo o especializado.
-                  td HubSpot posiciona contenido formativo en #[em marketing].
-                tr(style="background-color: #F6F6F6")
-                  td Correo electrónico.
-                  td Comunicación personalizada y segmentada.
-                  td Amazon envía recomendaciones basadas en historial de compra.
-                tr
-                  td Mensajería instantánea.
-                  td Atención inmediata y soporte.
-                  td Claro ofrece servicio al cliente vía chat digital.
+    .row.justify-content-center.z-2
+      .col-xl-10
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 4.
+          span Medios de comunicación #[em online] y ejemplos empresariales
+        .tabla-a.color-secundario
+          table
+            caption Nota. SENA, (2026).
+            thead
+              tr(style="background-color: #F1B6FC")
+                th Medio
+                th Características
+                th Ejemplo empresarial
+            tbody
+              tr
+                td Redes sociales.
+                td Alta interacción y viralización.
+                td Nike genera comunidad mediante campañas motivacionales.
+              tr(style="background-color: #F6F6F6")
+                td Sitio web corporativo.
+                td Información institucional y conversión.
+                td IKEA integra catálogo y tienda virtual.
+              tr
+                td #[em Blog] empresarial.
+                td Contenido educativo o especializado.
+                td HubSpot posiciona contenido formativo en #[em marketing].
+              tr(style="background-color: #F6F6F6")
+                td Correo electrónico.
+                td Comunicación personalizada y segmentada.
+                td Amazon envía recomendaciones basadas en historial de compra.
+              tr
+                td Mensajería instantánea.
+                td Atención inmediata y soporte.
+                td Claro ofrece servicio al cliente vía chat digital.
 
     Separador
     #t_7_3.titulo-segundo.color-acento-contenido(data-aos="flip-up").z-2

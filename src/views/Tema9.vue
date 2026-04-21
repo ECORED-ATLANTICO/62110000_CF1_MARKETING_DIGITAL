@@ -12,7 +12,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 El consumidor digital es el eje central de toda estrategia de marketing en entornos virtuales. Se caracteriza por estar permanentemente conectado, acceder a múltiples fuentes de información y tomar decisiones basadas en comparaciones, reseñas y experiencias compartidas por otros usuarios. A diferencia del consumidor tradicional, posee mayor poder de decisión, capacidad de investigación autónoma y expectativa de inmediatez.
+          p.mb-0 El consumidor digital es el eje central de toda estrategia de #[em marketing] en entornos virtuales. Se caracteriza por estar permanentemente conectado, acceder a múltiples fuentes de información y tomar decisiones basadas en comparaciones, reseñas y experiencias compartidas por otros usuarios. A diferencia del consumidor tradicional, posee mayor poder de decisión, capacidad de investigación autónoma y expectativa de inmediatez.
 
     Separador
     #t_9_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")

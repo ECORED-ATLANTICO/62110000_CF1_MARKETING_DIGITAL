@@ -20,13 +20,13 @@
 
     .row.justify-content-center.align-items-center.z-2
       .col-12.col-lg-8
-        p El #[em e-marketing] es la aplicación de los principios del marketing en entornos digitales, utilizando internet como canal central de comunicación, posicionamiento y comercialización. Su enfoque no se limita a vender productos o servicios, sino a construir relaciones sostenibles mediante experiencias digitales personalizadas.
-        .p-4.rounded-4.bg-primario-p5
+        p El #[em e-marketing] es la aplicación de los principios del #[em marketing] en entornos digitales, utilizando internet como canal central de comunicación, posicionamiento y comercialización. Su enfoque no se limita a vender productos o servicios, sino a construir relaciones sostenibles mediante experiencias digitales personalizadas.
+        .p-4.rounded-4.bg-primario-p5.mb-4.mb-lg-0
           .row.justify-content-center.align-items-center
-            .col-lg-1.d-none.d-lg-block
+            .col-xl-1.d-none.d-xl-block
               figure
                 img(data-aos="fade-down-left", src="@/assets/curso/tema4/3.png", alt="")
-            .col-lg-11
+            .col-xl-11
               p.mb-0 En el contexto del #[em e-marketing] digital, el contenido se convierte en el vehículo principal para ejecutar las estrategias definidas. Cada pieza de contenido —sea un artículo de blog, una publicación en redes sociales, un video o un correo electrónico— debe diseñarse considerando los objetivos comerciales, el público objetivo y los canales digitales seleccionados. Esta integración asegura que la comunicación contribuya directamente a los resultados del negocio.
       .col-sm-8.col-lg-4
         figure
@@ -73,7 +73,7 @@
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Estrategias
 
-    p Las estrategias de e-marketing definen la dirección general que guiará las acciones digitales, alineándolas con metas organizacionales específicas.
+    p Las estrategias de #[em e-marketing] definen la dirección general que guiará las acciones digitales, alineándolas con metas organizacionales específicas.
     p Entre las principales estrategias se destacan:
 
     .row.justify-content-center.mb-5
@@ -117,7 +117,7 @@
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
-          span Estrategias de e-marketing
+          span Estrategias de #[em e-marketing]
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/10-mob.png", alt="")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/10.png", alt="")
         figcaption Nota. SENA, (2026).
@@ -137,7 +137,7 @@
       h2 4.4 Tácticas
 
     .p-4.rounded-4.bg-secundario-s5.mb-4.mb-lg-5
-      p.mb-0.text-center Las tácticas son las acciones concretas que permiten ejecutar las estrategias definidas. Representan el nivel operativo del e-marketing y se apoyan en herramientas tecnológicas específicas.
+      p.mb-0.text-center Las tácticas son las acciones concretas que permiten ejecutar las estrategias definidas. Representan el nivel operativo del #[em e-marketing] y se apoyan en herramientas tecnológicas específicas.
 
     p.mb-4.mb-lg-5 Entre las tácticas más relevantes se encuentran:
 

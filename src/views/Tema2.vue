@@ -46,7 +46,7 @@
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Características
+      h2 2.2 Variables
 
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema2/5.png", alt="").z-2
@@ -66,7 +66,7 @@
           span Variables del entorno digital y su impacto en la creación de contenido
         .tabla-a.color-secundario
           table
-            caption Nota. SENA, (2026).  Marketing digital contemporáneo.
+            caption Nota. SENA, (2026). #[em Marketing] digital contemporáneo.
             thead
               tr(style="background-color: #F1B6FC")
                 th Variable

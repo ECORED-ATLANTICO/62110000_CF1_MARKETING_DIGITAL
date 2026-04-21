@@ -37,7 +37,7 @@
 
     .row.justify-content-center.align-items-center.z-2
       .col-xl-10
-        .p-4.rounded.bg-primario-p5.mb-5
+        .p-4.rounded.bg-primario-p5
           p.mb-0 En plataformas como Instagram, Facebook, TikTok y LinkedIn, la publicidad permite impactar usuarios según intereses, comportamiento de navegación e interacciones previas, fortaleciendo la precisión estratégica del mensaje.
 
     Separador
@@ -131,7 +131,7 @@
           figure
             img.w-55(data-aos="fade-down-left", src="@/assets/curso/tema6/6.png", alt="")
         .col-lg-9
-          p.mb-4.mb-lg-0 Artículo para comprender cómo las redes sociales y los influencers impactan las estrategias de marketing y ventas, aportando una visión actualizada sobre tácticas modernas de posicionamiento digital: 
+          p.mb-4.mb-lg-0 Artículo para comprender cómo las redes sociales y los influencers impactan las estrategias de #[em marketing] y ventas, aportando una visión actualizada sobre tácticas modernas de posicionamiento digital: 
         .col-12.col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=To0O7JCtAI0", target="_blank")
             span Enlace web

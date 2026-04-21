@@ -93,7 +93,7 @@
           figure
             img.w-55(data-aos="fade-down-left", src="@/assets/curso/tema14/4.png", alt="")
         .col-lg-9
-          p.mb-4.mb-lg-0 Para profundizar los conceptos expuestos, lo invitamos a consultar el siguiente video, el cual presenta de forma práctica las estrategias de #[em Social Media Optimization] (SMO) y marketing en redes sociales, orientadas a optimizar perfiles, contenidos y dinámicas de interacción para fortalecer la visibilidad, el alcance y el engagement de marca en plataformas digitales: 
+          p.mb-4.mb-lg-0 Para profundizar los conceptos expuestos, lo invitamos a consultar el siguiente video, el cual presenta de forma práctica las estrategias de #[em Social Media Optimization] (SMO) y #[em marketing] en redes sociales, orientadas a optimizar perfiles, contenidos y dinámicas de interacción para fortalecer la visibilidad, el alcance y el engagement de marca en plataformas digitales: 
         .col-12.col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://youtu.be/lEy9G1gtr8M", target="_blank")
             span Abrir video

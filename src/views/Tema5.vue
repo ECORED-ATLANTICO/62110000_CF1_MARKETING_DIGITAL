@@ -55,7 +55,9 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7
         p Las técnicas de segmentación evolucionaron con la transformación digital. Hoy se combinan métodos tradicionales con análisis de datos provenientes de plataformas digitales y herramientas de analítica.
-        p.mb-0 Entre las principales técni_________________________________________
+        p.mb-4.mb-lg-0 Entre las principales técnicas se encuentran:
+      .col-sm-10.col-lg-5.d-none.d-lg-block
+        figure
           img(data-aos="fade-down-left", src="@/assets/curso/tema5/5.png", alt="")
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2

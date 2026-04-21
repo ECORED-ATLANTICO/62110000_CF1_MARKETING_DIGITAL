@@ -12,7 +12,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 El SEO es una estrategia fundamental del marketing digital orientada a mejorar la visibilidad de un sitio web en los resultados orgánicos de los motores de búsqueda. A diferencia del SEM, no implica pago directo por clic, sino la optimización técnica y estratégica del contenido para posicionarlo de manera natural. Su efectividad radica en la constancia, la calidad del contenido y la experiencia del usuario.
+          p.mb-0 El SEO es una estrategia fundamental del #[em marketing] digital orientada a mejorar la visibilidad de un sitio web en los resultados orgánicos de los motores de búsqueda. A diferencia del SEM, no implica pago directo por clic, sino la optimización técnica y estratégica del contenido para posicionarlo de manera natural. Su efectividad radica en la constancia, la calidad del contenido y la experiencia del usuario.
 
     Separador
     #t_13_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -21,7 +21,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-lg-6.col-xl-4
         .p-4.rounded-4.bg-primario-p5.mb-4.mb-lg-0
-          p.mb-0 El Search Engine Marketing (SEM) es el conjunto de estrategias de marketing digital que utilizan anuncios pagos en motores de búsqueda para atraer tráfico cualificado hacia un sitio web. Generalmente opera bajo modelos de pago por clic (CPC), donde el anunciante paga únicamente cuando el usuario hace clic en el anuncio.
+          p.mb-0 El #[em Search Engine Marketing] (SEM) es el conjunto de estrategias de #[em marketing] digital que utilizan anuncios pagos en motores de búsqueda para atraer tráfico cualificado hacia un sitio web. Generalmente opera bajo modelos de pago por clic (CPC), donde el anunciante paga únicamente cuando el usuario hace clic en el anuncio.
       .col-xl-4.d-none.d-xl-block
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema13/2.png", alt="")
@@ -34,7 +34,7 @@
 
     Separador
     #t_13_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 13.2 Técnicos
+      h2 13.2 Técnicas
 
     p.mb-4 Las técnicas de SEO integran acciones internas y externas que fortalecen el posicionamiento orgánico y mejoran la visibilidad digital de una marca en los motores de búsqueda. A continuación, se presentan las principales estrategias utilizadas para optimizar resultados.
 
@@ -62,7 +62,7 @@
                 td Amazon prioriza tiempos de carga rápidos para mejorar posicionamiento.
               tr
                 td SEO #[em Off-Page].
-                td Generación de enlaces externos (backlinks) desde sitios con autoridad.
+                td Generación de enlaces externos (#[em backlinks]) desde sitios con autoridad.
                 td Enlaces hacia Forbes fortalecen su autoridad digital.
               tr(style="background-color: #F6F6F6")
                 td Optimización de experiencia de usuario (UX).

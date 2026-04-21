@@ -10,13 +10,16 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema10/1.png", alt="").z-2
     
-    .row.justify-content-center.z-2.mb-4
+    .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 Los insights representan uno de los elementos más estratégicos dentro del marketing digital, ya que permiten comprender las motivaciones profundas del consumidor más allá de los datos superficiales. No se trata únicamente de identificar qué hace el usuario, sino de entender por qué lo hace. Un insight bien formulado orienta la creación de contenidos, el diseño de campañas y la construcción de propuestas de valor diferenciadas.
+          p.mb-0 Los insights representan uno de los elementos más estratégicos dentro del #[em marketing] digital, ya que permiten comprender las motivaciones profundas del consumidor más allá de los datos superficiales. No se trata únicamente de identificar qué hace el usuario, sino de entender por qué lo hace. Un insight bien formulado orienta la creación de contenidos, el diseño de campañas y la construcción de propuestas de valor diferenciadas.
 
+    Separador
+    #t_10_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 10.1 Concepto
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
-      .col-6.col-lg-4
+      .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema10/2.png", alt="")
       .col-lg-8
@@ -51,7 +54,7 @@
               img(src="@/assets/curso/tema10/5.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3 Aplicabilidad estratégica
-            p.mb-0 Debe transformarse en acciones concretas de comunicación y marketing. Un insight útil guía decisiones y mejora resultados.
+            p.mb-0 Debe transformarse en acciones concretas de comunicación y #[em marketing]. Un insight útil guía decisiones y mejora resultados.
     Separador
     #t_10_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 10.2 Aplicabilidad
