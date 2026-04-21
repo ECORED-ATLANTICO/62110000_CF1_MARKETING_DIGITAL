@@ -136,23 +136,17 @@
         .p-4.rounded-4.bg-secundario-s5
           p.mb-0 La segmentación de mercados no es un ejercicio descriptivo sino analítico. Su función es garantizar que la planeación del contenido digital responda a un público claramente definido. Sin segmentación, no hay precisión estratégica; sin precisión, no hay conversión.
           
-
     .p-4.rounded-4.bg-terciario-t20
       .row.justify-content-center.align-items-center
         .col-xl-1.d-none.d-xl-block
           figure
             img(data-aos="fade-down-left", src="@/assets/curso/tema5/13.png", alt="")
         .col-lg-9
-          p.mb-0 Lo invitamos a visualizar el siguiente video para afianzar los conocimientos de segmentación de mercado y profundizar en cómo se divide un mercado en segmentos relevantes, por qué es crucial para dirigir mensajes adecuados y cómo esto impacta directamente en el éxito de estrategias digitales: 
-        .col-12.col-lg-2
+          p.mb-4.mb-lg-0 Lo invitamos a visualizar el siguiente video para afianzar los conocimientos de segmentación de mercado y profundizar en cómo se divide un mercado en segmentos relevantes, por qué es crucial para dirigir mensajes adecuados y cómo esto impacta directamente en el éxito de estrategias digitales: 
+        .col-12.col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=To0O7JCtAI0", target="_blank")
             span Ver video
             i.fas.fa-play-circle
-            
-          
-      
-
-
 
 </template>
 
