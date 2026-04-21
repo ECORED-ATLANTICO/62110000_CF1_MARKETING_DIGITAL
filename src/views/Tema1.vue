@@ -149,7 +149,7 @@
         .col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=Wd7BqFHlxSY", target="_blank")
             span Abrir video
-            i.fas.fa-play-circle
+            i.fas.fa-file-video
             
     
 </template>
