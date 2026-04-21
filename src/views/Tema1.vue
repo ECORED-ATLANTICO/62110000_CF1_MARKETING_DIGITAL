@@ -43,7 +43,7 @@
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/3.png", alt="")
 
-    .row.justify-content-center.mb-4.mb-lg-5
+    .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
