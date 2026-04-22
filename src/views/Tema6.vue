@@ -26,6 +26,7 @@
         p La publicidad digital es el conjunto de estrategias y acciones pagadas que utilizan canales y plataformas digitales para promocionar productos, servicios o marcas ante audiencias específicas. Se fundamenta en el uso de datos, algoritmos y herramientas tecnológicas que permiten dirigir anuncios según variables demográficas, conductuales y psicográficas.
         p.mb-0 Su principal característica es la trazabilidad. Cada acción puede medirse mediante indicadores como impresiones, clics, tasa de conversión y retorno de inversión. Esta medición constante convierte la publicidad digital en un proceso dinámico y optimizable.
 
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
@@ -47,12 +48,12 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema6/4.png", alt="").z-2
     
-    .row.justify-content-center.z-2.mb-5
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 Las técnicas de publicidad digital corresponden a los métodos utilizados para ejecutar campañas de manera efectiva dentro del ecosistema digital. Estas técnicas permiten mejorar la eficiencia del presupuesto y aumentar la probabilidad de conversión. Su aplicación adecuada depende del análisis previo del público objetivo, la definición de metas claras y el seguimiento constante de indicadores de desempeño. A continuación, se presentan las principales técnicas empleadas en estrategias de publicidad digital y su finalidad estratégica.
 
-    .row.justify-content-center
+    .row.justify-content-center.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.

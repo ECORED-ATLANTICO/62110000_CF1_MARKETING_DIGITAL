@@ -7,7 +7,7 @@
         span 7
       h1 Comunicación #[em online]
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema7/1.png')})`}"
       )
@@ -35,7 +35,8 @@
     Separador
     #t_7_2.titulo-segundo.color-acento-contenido(data-aos="flip-up").z-2
       h2 7.2 Medios
-
+      
+    .fullwidth-bg.fullwidth-bg--2
     .p-4.rounded-4.bg-primario-p10.mb-5.z-2
       p.mb-0 Los medios son los espacios digitales donde se desarrolla la interacción entre la marca y el usuario. Cada medio posee características propias que influyen en el tipo de contenido y en la estrategia comunicativa.
 

@@ -7,20 +7,22 @@
         span 8
       h1 Contenidos
 
-    p Los contenidos constituyen el eje central de la estrategia digital, ya que representan el mensaje que la organización transmite para atraer, informar, persuadir y fidelizar a su público objetivo. En entornos digitales, el contenido no se limita a textos escritos, sino que incluye formatos audiovisuales, gráficos, interactivos y educativos, diseñados según las características del consumidor y los objetivos estratégicos.
-    p.mb-0 Empresas como Red Bull, Apple y HubSpot han demostrado que el contenido estratégico no solo promociona productos, sino que construye comunidad, posicionamiento y autoridad en el mercado. La creación de contenidos debe responder a un análisis previo del segmento, evitando publicaciones improvisadas o sin propósito definido.
+    .fullwidth-bg.fullwidth-bg--1
+    img(data-aos="fade-up")(src="@/assets/curso/tema8/1.png", alt="").z-2
+    
+    .row.justify-content-center.z-2.mb-3
+      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+        div.banner-text
+          p.mb-0 Los contenidos constituyen el eje central de la estrategia digital, ya que representan el mensaje que la organización transmite para atraer, informar, persuadir y fidelizar a su público objetivo. En entornos digitales, el contenido no se limita a textos escritos, sino que incluye formatos audiovisuales, gráficos, interactivos y educativos, diseñados según las características del consumidor y los objetivos estratégicos.
+
+    .p-4.rounded-4.bg-secundario-s5.mb-4.mb-lg-0.z-2
+      p.mb-0 Empresas como Red Bull, Apple y HubSpot han demostrado que el contenido estratégico no solo promociona productos, sino que construye comunidad, posicionamiento y autoridad en el mercado. La creación de contenidos debe responder a un análisis previo del segmento, evitando publicaciones improvisadas o sin propósito definido.
 
     Separador
     #t_8_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 8.1 Concepto
       
-    .fullwidth-bg.fullwidth-bg--1
-    img(data-aos="fade-up")(src="@/assets/curso/tema8/1.png", alt="").z-2
-    
-    .row.justify-content-center.z-2.mb-4
-      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-        div.banner-text
-          p.mb-0 El contenido digital es el conjunto de piezas comunicativas diseñadas y difundidas en medios digitales con el propósito de generar valor para una audiencia específica. Puede adoptar diversos formatos como artículos, videos, infografías, publicaciones en redes sociales, podcasts o recursos descargables.
+    p.mb-4.z-2 El contenido digital es el conjunto de piezas comunicativas diseñadas y difundidas en medios digitales con el propósito de generar valor para una audiencia específica. Puede adoptar diversos formatos como artículos, videos, infografías, publicaciones en redes sociales, podcasts o recursos descargables.
 
     .row.justify-content-center.align-items-center.z-2
       .col-sm-8.col-lg-4
@@ -36,6 +38,7 @@
 
     p.mb-4 La metodología para la creación de contenidos digitales implica un proceso estructurado que integra análisis, planificación, producción, publicación y evaluación. No se trata de crear por intuición, sino de seguir un enfoque estratégico basado en datos. A continuación, se presentan las etapas que estructuran la metodología para la gestión estratégica de contenidos digitales.
 
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
@@ -50,26 +53,26 @@
                 th Propósito
                 th Actividades clave
             tbody
-              tr
-                td 1. Análisis.
-                td Definir punto de partida y audiencia.
-                td Análisis de competencia, estado actual y definición de #[em buyer persona].
+              tr(style="background-color: #FFFFFF")
+                td Análisis.
+                td Identificación del público, objetivos y tendencias.
+                td Nike analiza preferencias antes de lanzar campañas.
               tr(style="background-color: #F6F6F6")
-                td 2. Planificación.
-                td Estructurar el mensaje y los canales.
-                td Creación de matriz de contenidos, elección de formatos y canales.
-              tr
-                td 3. Producción.
-                td Diseñar y redactar el material.
-                td Generación de #[em copys], diseño gráfico, edición de video.
+                td Planificación.
+                td Definición de calendario editorial y formatos.
+                td Coca-Cola organiza campañas estacionales.
+              tr(style="background-color: #FFFFFF")
+                td Producción.
+                td Creación de piezas gráficas, audiovisuales o escritas.
+                td Netflix desarrolla contenido promocional creativo.
               tr(style="background-color: #F6F6F6")
-                td 4. Publicación.
-                td Distribuir el contenido.
-                td Programación en redes, envío de boletines, actualización web.
-              tr
-                td 5. Evaluación.
-                td Medir el rendimiento y optimizar.
-                td Análisis de métricas, reportes de desempeño, ajustes estratégicos.
+                td Publicación.
+                td Difusión en medios y canales seleccionados.
+                td Samsung lanza contenidos simultáneos en varias plataformas.
+              tr(style="background-color: #FFFFFF")
+                td Evaluación.
+                td Medición de métricas e indicadores de desempeño.
+                td Amazon ajusta contenido según resultados de conversión.
 
     Separador
     #t_8_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -81,7 +84,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema8/3.png", alt="")
       .col-lg-8
         p La metodología para la creación de contenidos digitales implica un proceso estructurado que integra análisis, planificación, producción, publicación y evaluación. No se trata de crear por intuición, sino de seguir un enfoque estratégico basado en datos. A continuación, se presentan las etapas que estructuran la metodología para la gestión estratégica de contenidos digitales.
-        .p-4.rounded-4.bg-primario-p5.mb-4.mb-lg-0
+        .px-4.py-3.rounded-4.bg-primario-p10.mb-3
           p.mb-0 Por ejemplo, Burger King utiliza contenido creativo y tono irreverente en redes sociales para generar conversación y aumentar la interacción con su comunidad digital. En contraste, Tesla comunica innovación mediante lanzamientos y demostraciones tecnológicas que fortalecen su posicionamiento como marca disruptiva.
         p.mb-0 La correcta aplicabilidad exige definir propósito, formato, frecuencia y canal, asegurando que cada pieza contribuya a un resultado medible.
     
@@ -91,7 +94,7 @@
 
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-lg-5.col-xl-3
-        .p-4.rounded-4.bg-primario-p5.mb-4.mb-lg-0
+        .p-4.rounded-4.bg-primario-p10.mb-4.mb-lg-0
           p.mb- La arquitectura web se refiere a la organización estructural de la información dentro de un sitio digital. Su objetivo es facilitar la navegación, mejorar la experiencia del usuario y optimizar el posicionamiento en motores de búsqueda.
       .col-xl-4.d-none.d-xl-block
         figure
@@ -102,7 +105,8 @@
     
     .p-4.rounded-4.bg-acento-contenido-a10.mb-5
       p.mb-0.text-center La arquitectura web influye directamente en la experiencia del usuario, el tiempo de permanencia y la tasa de conversión, convirtiéndose en un componente fundamental dentro de la estrategia digital.
-      
+
+    .fullwidth-bg.fullwidth-bg--2 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4

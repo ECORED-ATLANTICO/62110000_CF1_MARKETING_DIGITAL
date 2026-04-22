@@ -6,6 +6,8 @@
       .titulo-principal__numero
         span 11
       h1 Conversión
+      
+    .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema11/1.png", alt="").z-2
     
     .row.justify-content-center.z-2
@@ -59,6 +61,7 @@
         .p-4.rounded-4.bg-primario-p10.mb-4
           p.mb-0.text-center Este indicador permite evaluar la eficiencia de la estrategia digital y detectar oportunidades de optimización.
 
+    .fullwidth-bg.fullwidth-bg--2
     Separador
     #t_11_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 11.3 Aplicabilidad

@@ -10,7 +10,7 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema3/1.png", alt="").z-2
     
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 La mezcla en #[em marketing] constituye el conjunto de variables estratégicas que una organización utiliza para influir en la demanda y posicionar su oferta en el mercado. En el entorno digital, estas variables no desaparecen; se transforman y se integran con la creación de contenido para generar experiencias, interacción y conversión.
@@ -44,22 +44,22 @@
       .col-xl-8
         .row.justify-content-center.align-items-stretch
           .col-lg-6.mb-4
-            .icon-tarjeta.color-primario.p-3.ps-4.ms-5
+            .icon-tarjeta.p-3.ps-4.ms-5
               .icon-tarjeta__imagen 
                 img.w-100(src="@/assets/curso/tema3/3.png", alt="")
               p.mb-0.ps-4.icon-tarjeta__text Producto: el contenido debe destacar beneficios, atributos diferenciadores y propuesta de valor.
           .col-lg-6.mb-4
-            .icon-tarjeta.color-primario.p-3.ps-4.ms-5.h-100
+            .icon-tarjeta.p-3.ps-4.ms-5.h-100
               .icon-tarjeta__imagen 
                 img.w-100(src="@/assets/curso/tema3/4.png", alt="")
               p.mb-0.ps-4.icon-tarjeta__text Plaza: incluye la elección de canales digitales adecuados para el público objetivo.
           .col-lg-6.mb-4.mb-xl-0
-            .icon-tarjeta.color-primario.p-3.ps-4.ms-5.h-100
+            .icon-tarjeta.p-3.ps-4.ms-5.h-100
               .icon-tarjeta__imagen 
                 img.w-100(src="@/assets/curso/tema3/5.png", alt="")
               p.mb-0.ps-4.icon-tarjeta__text Precio: puede comunicarse mediante promociones, descuentos, planes de financiación o percepción de valor #[em premium].
           .col-lg-6.mb-4.mb-xl-0
-            .icon-tarjeta.color-primario.p-3.ps-4.ms-5.h-100
+            .icon-tarjeta.p-3.ps-4.ms-5.h-100
               .icon-tarjeta__imagen 
                 img.w-100(src="@/assets/curso/tema3/6.png", alt="")
               p.mb-0.ps-4.icon-tarjeta__text Promoción: se materializa en campañas, anuncios, #[em storytelling] y estrategias de #[em engagement].
@@ -85,7 +85,7 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema3/9.png", alt="").z-2
     
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 La transformación digital ha redefinido la forma en que se gestionan las variables clásicas del #[em marketing]. Aunque la estructura tradicional de la mezcla de mercadeo se mantiene vigente, su aplicación en entornos digitales exige una reinterpretación estratégica orientada a la experiencia del consumidor conectado. En este contexto, cada variable adquiere nuevas dimensiones asociadas a interacción, personalización, inmediatez y medición de resultados.
@@ -138,7 +138,7 @@
 
     .row.justify-content-center
       .col-xl-10
-        .p-4.rounded-4.bg-secundario-s5.mb-4.mb-lg-5.text-center
+        .p-4.rounded-4.bg-acento-contenido-a5.mb-4.mb-lg-5.text-center
           p.mb-0 En el entorno digital, la mezcla de mercadeo se operacionaliza mediante estrategias específicas de contenido:
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5

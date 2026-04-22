@@ -69,6 +69,7 @@
     .p-4.rounded-4.bg-primario-p5.mb-4.mb-lg-5
       p.mb-0.text-center A continuación, se presentan ejemplos de cómo un insight puede transformarse en acción estratégica.
       
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.z-2.mb-4.mb-lg-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido
@@ -83,7 +84,7 @@
                 th Interpretación estratégica
                 th Aplicación empresarial
             tbody
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Búsqueda activa de información.
                 td Investiga antes de comprar.
                 td Usuarios comparan productos en Mercado Libre.
@@ -91,7 +92,7 @@
                 td Influencia social.
                 td Considera opiniones y reseñas.
                 td Clientes revisan valoraciones en Tripadvisor.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Multicanalidad.
                 td Utiliza varios dispositivos y plataformas.
                 td Compra en #[em app] móvil y consulta #[em web] de Falabella.

@@ -6,7 +6,8 @@
       .titulo-principal__numero
         span 14
       h1 SMO (#[em Social Media Optimization])
-
+      
+    .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema14/1.png", alt="").z-2
     
     .row.justify-content-center.z-2
@@ -21,7 +22,7 @@
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-sm-8.col-lg-4  
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema12/2.png", alt="")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema14/2.png", alt="")
       .col-lg-8
         p El #[em Social Media Optimization] (SMO) es el conjunto de estrategias y técnicas destinadas a mejorar la visibilidad, el alcance y la interacción de una marca en redes sociales como Instagram, Facebook, LinkedIn y TikTok.
         p Implica optimizar perfiles, contenidos, formatos y dinámicas de interacción para favorecer el posicionamiento dentro de los algoritmos de cada plataforma.
@@ -38,6 +39,7 @@
 
     p.mb-4 Las acciones de SMO se enfocan en optimizar perfiles, contenido e interacción dentro de las plataformas sociales. A continuación, se organizan las principales acciones de SMO de manera estructurada para facilitar su comprensión estratégica.
 
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
@@ -52,7 +54,7 @@
                 th Descripción
                 th Ejemplo empresarial
             tbody
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Optimización de perfiles.
                 td Biografías claras, palabras clave, enlaces estratégicos e identidad visual coherente.
                 td Adidas mantiene uniformidad gráfica y mensajes consistentes en sus redes.
@@ -60,7 +62,7 @@
                 td Uso estratégico de #[em hashtags].
                 td Incrementa alcance y permite segmentar audiencias interesadas en temas específicos.
                 td Marcas utilizan hashtags de campaña para ampliar visibilidad.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Publicación constante y calendarizada.
                 td Mantiene relevancia y presencia ante el algoritmo de la plataforma.
                 td Coca-Cola planifica contenidos según temporadas y campañas globales.
@@ -68,7 +70,7 @@
                 td Fomento de interacción.
                 td Respuesta a comentarios, encuestas y dinámicas participativas para fortalecer #[em engagement].
                 td Duolingo interactúa activamente con su comunidad digital.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Adaptación a formatos nativos.
                 td Uso estratégico de #[em reels], historias, videos cortos o transmisiones en vivo según cada red social.
                 td Empresas ajustan contenidos a formatos propios de Instagram o TikTok.
@@ -77,7 +79,7 @@
     #t_14_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 14.3 Aplicabilidad
 
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+    .row.justify-content-center.align-items-center.mb-4.z-2
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema13/3.png", alt="")

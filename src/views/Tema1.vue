@@ -9,12 +9,12 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema1/1.png", alt="").z-2
     
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 La creación de contenido digital para redes sociales es una acción táctica que debe estar subordinada al direccionamiento estratégico de la organización. Ninguna estrategia de contenidos puede generar resultados sostenibles si no responde a un marco estratégico previamente definido. En el ámbito del mercadeo y las ventas, el plan estratégico organizacional actúa como la hoja de ruta que determina hacia dónde se dirige la empresa, cómo competirá y qué posición desea ocupar en la mente del consumidor.
  
-    p Cuando una empresa produce contenido sin alineación estratégica, incurre en dispersión de mensajes, inversión ineficiente y pérdida de coherencia de marca. Por el contrario, cuando el contenido digital se fundamenta en el plan estratégico, se convierte en una herramienta de posicionamiento, generación de valor y apoyo directo a los objetivos comerciales. La planeación del contenido, por tanto, no inicia en la creatividad, sino en la estrategia corporativa.
+    p.z-2 Cuando una empresa produce contenido sin alineación estratégica, incurre en dispersión de mensajes, inversión ineficiente y pérdida de coherencia de marca. Por el contrario, cuando el contenido digital se fundamenta en el plan estratégico, se convierte en una herramienta de posicionamiento, generación de valor y apoyo directo a los objetivos comerciales. La planeación del contenido, por tanto, no inicia en la creatividad, sino en la estrategia corporativa.
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -96,12 +96,12 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema1/5.png", alt="").z-2
     
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 La estructura del plan estratégico organizacional sigue un proceso metodológico sistemático que permite coherencia y control. Este proceso comprende diagnóstico, formulación, implementación y evaluación. En términos operativos, esta secuencia garantiza que las decisiones comunicacionales no sean improvisadas, sino el resultado de análisis estructurado.
 
-    p.mb-4.mb-lg-5 En la fase de diagnóstico se analizan variables internas y externas, tales como recursos, capacidades, competencia y comportamiento del mercado. En el contexto digital, este diagnóstico puede revelar, por ejemplo, que la audiencia objetivo interactúa principalmente en formatos de video corto, lo que condiciona la selección de formatos y plataformas.
+    p.mb-4.mb-lg-5.z-2 En la fase de diagnóstico se analizan variables internas y externas, tales como recursos, capacidades, competencia y comportamiento del mercado. En el contexto digital, este diagnóstico puede revelar, por ejemplo, que la audiencia objetivo interactúa principalmente en formatos de video corto, lo que condiciona la selección de formatos y plataformas.
 
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-sm-8.col-lg-4
@@ -126,7 +126,7 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema1/8.png", alt="").z-2
     
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 Por ejemplo, Apple ha construido su plan estratégico alrededor de la diferenciación, el diseño y la experiencia #[em premium]. En consecuencia, su contenido en redes sociales no se centra en descuentos agresivos, sino en destacar innovación, estética, minimalismo y valor aspiracional. Esto demuestra coherencia entre estrategia organizacional y narrativa digital.
@@ -139,7 +139,7 @@
         .p-4.rounded-4.bg-primario-p5
           p.mb-0 De manera similar, Nike orienta su plan estratégico hacia el liderazgo emocional, el rendimiento y la inspiración deportiva. Su contenido en plataformas digitales no se limita a mostrar productos, sino que comunica historias de superación, disciplina y empoderamiento. Esa alineación estratégica permite que cada publicación refuerce el posicionamiento global de la marca y fortalezca su conexión con segmentos específicos del mercado.
 
-    .p-4.rounded-4.bg-terciario-t20.mb-4
+    .p-4.rounded-4.bg-terciario-t20.mb-4.z-2
       .row.justify-content-center.align-items-center.z-2
         .col-xl-1.d-none.d-xl-block
           figure

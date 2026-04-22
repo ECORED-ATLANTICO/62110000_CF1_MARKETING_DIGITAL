@@ -41,6 +41,7 @@
     .p-4.bg-primario-p5.rounded-4.mb-5
       p.mb-0 A continuación, se presentan las principales características que definen el comportamiento del consumidor digital y su impacto en la estrategia empresarial.
 
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
@@ -55,7 +56,7 @@
                 th Descripción
                 th Ejemplo empresarial
             tbody
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Búsqueda activa de información.
                 td Investiga antes de comprar.
                 td Usuarios comparan productos en Mercado Libre.
@@ -63,7 +64,7 @@
                 td Influencia social.
                 td Considera opiniones y reseñas.
                 td Clientes revisan valoraciones en Tripadvisor.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Multicanalidad.
                 td Utiliza varios dispositivos y plataformas.
                 td Compra en #[em app] móvil y consulta #[em web] de Falabella.
@@ -71,7 +72,7 @@
                 td Inmediatez.
                 td Espera respuestas rápidas.
                 td Solicita soporte inmediato en Rappi.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Sensibilidad a la experiencia.
                 td Valora facilidad y rapidez.
                 td Prefiere navegación intuitiva en Amazon.

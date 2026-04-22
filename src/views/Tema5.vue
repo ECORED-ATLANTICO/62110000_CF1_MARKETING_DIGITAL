@@ -9,7 +9,7 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema5/1.png", alt="").z-2
     
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 La segmentación de mercados constituye el punto de partida en la planeación del contenido digital. Permite identificar grupos homogéneos dentro de un mercado amplio, con el propósito de diseñar estrategias diferenciadas y mensajes específicos. En entornos digitales, segmentar no es una opción estratégica sino una condición necesaria para optimizar recursos, aumentar la relevancia del contenido y mejorar la conversión.

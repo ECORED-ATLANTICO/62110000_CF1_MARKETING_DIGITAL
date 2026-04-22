@@ -6,7 +6,8 @@
       .titulo-principal__numero
         span 12
       h1 SEM (#[em Search Engine Marketing])
-
+      
+    .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema12/1.png", alt="").z-2
     
     .row.justify-content-center.z-2
@@ -38,6 +39,7 @@
     
     p.mb-4.mb-lg-5 Las estrategias de SEM permiten estructurar la inversión publicitaria en motores de búsqueda de manera eficiente y orientada a resultados. A continuación, se presentan las principales acciones estratégicas utilizadas para maximizar visibilidad, tráfico cualificado y conversión.
 
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
@@ -52,7 +54,7 @@
                 th Descripción
                 th Ejemplo empresarial
             tbody
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Selección estratégica de palabras clave.
                 td Identificación de términos de búsqueda relevantes con intención de compra.
                 td Amazon invierte en #[em keywords] relacionadas con productos de alta demanda.
@@ -60,7 +62,7 @@
                 td Segmentación geográfica y demográfica.
                 td Definición de públicos según ubicación, edad o intereses.
                 td Rappi segmenta campañas según ciudades específicas.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Optimización de anuncios y #[em landing pages].
                 td Mejora de textos, llamados a la acción y páginas de destino para aumentar conversiones.
                 td Airbnb ajusta anuncios según temporadas y tendencias.
@@ -68,7 +70,7 @@
                 td Estrategias de puja (#[em bidding]).
                 td Definición del valor máximo a pagar por clic para optimizar posicionamiento y presupuesto.
                 td Empresas ajustan pujas en Google Ads según competencia y demanda.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Análisis y mejora continua.
                 td Monitoreo de métricas como CTR, CPC y conversiones para optimizar campañas.
                 td Booking.com ajusta campañas en tiempo real según desempeño.

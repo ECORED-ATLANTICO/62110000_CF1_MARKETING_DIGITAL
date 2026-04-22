@@ -10,7 +10,7 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema2/1.png", alt="").z-2
     
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 El entorno digital constituye el espacio dinámico donde interactúan empresas, consumidores, plataformas tecnológicas y flujos de información en tiempo real. En el marco de la creación de contenido para redes sociales, comprender el entorno digital no es una opción operativa, sino una condición estratégica. Las decisiones sobre formatos, frecuencia, narrativa y segmentación dependen directamente del análisis de este ecosistema.
@@ -51,15 +51,15 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema2/5.png", alt="").z-2
     
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 El entorno digital no es un escenario estático; es un sistema dinámico influenciado por factores tecnológicos, sociales, competitivos, económicos y normativos que determinan la forma en que las marcas interactúan con sus audiencias. Comprender estas variables es fundamental para estructurar estrategias de contenido coherentes, pertinentes y orientadas a resultados comerciales. Antes de diseñar cualquier plan de publicaciones o campañas digitales, la organización debe analizar estas condiciones para garantizar que sus decisiones comunicacionales respondan al contexto real del mercado.
 
-    .p-4.rounded-4.bg-secundario-s5.text-center.mb-5
+    .p-4.rounded-4.bg-secundario-s5.text-center.mb-5.z-2
       p.mb-0 A continuación, se presentan las principales variables del entorno digital y su impacto directo en la creación de contenido estratégico.
 
-    .row.justify-content-center.mb-4.mb-lg-5
+    .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
@@ -150,7 +150,7 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema2/11.png", alt="").z-2
     
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 Por ejemplo, cuando Zara detecta tendencias emergentes en redes sociales, ajusta rápidamente su comunicación digital para capitalizar el interés del mercado. Esa capacidad de respuesta evidencia comprensión profunda del entorno digital y su velocidad.

@@ -6,7 +6,8 @@
       .titulo-principal__numero
         span 13
       h1 SEO (#[em Search Engine Optimization])
-
+      
+    .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema13/1.png", alt="").z-2
     
     .row.justify-content-center.z-2
@@ -20,7 +21,7 @@
 
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-lg-6.col-xl-4
-        .p-4.rounded-4.bg-primario-p5.mb-4.mb-lg-0
+        .p-4.rounded-4.bg-primario-p10.mb-4.mb-lg-0
           p.mb-0 El #[em Search Engine Marketing] (SEM) es el conjunto de estrategias de #[em marketing] digital que utilizan anuncios pagos en motores de búsqueda para atraer tráfico cualificado hacia un sitio web. Generalmente opera bajo modelos de pago por clic (CPC), donde el anunciante paga únicamente cuando el usuario hace clic en el anuncio.
       .col-xl-4.d-none.d-xl-block
         figure
@@ -38,6 +39,7 @@
 
     p.mb-4 Las técnicas de SEO integran acciones internas y externas que fortalecen el posicionamiento orgánico y mejoran la visibilidad digital de una marca en los motores de búsqueda. A continuación, se presentan las principales estrategias utilizadas para optimizar resultados.
 
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido
@@ -52,7 +54,7 @@
                 th Descripción
                 th Ejemplo empresarial
             tbody
-              tr
+              tr(style="background-color: #FFFFFF")
                 td SEO #[em On-Page].
                 td Optimización interna del sitio: palabras clave, meta descripciones, títulos, encabezados y calidad del contenido.
                 td Shopify optimiza artículos con keywords orientadas a emprendedores.
@@ -60,7 +62,7 @@
                 td SEO Técnico.
                 td Mejora de velocidad de carga, diseño responsive y arquitectura web.
                 td Amazon prioriza tiempos de carga rápidos para mejorar posicionamiento.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td SEO #[em Off-Page].
                 td Generación de enlaces externos (#[em backlinks]) desde sitios con autoridad.
                 td Enlaces hacia Forbes fortalecen su autoridad digital.
@@ -68,7 +70,7 @@
                 td Optimización de experiencia de usuario (UX).
                 td Diseño intuitivo que facilita navegación y permanencia.
                 td Airbnb prioriza estructura clara y experiencia amigable.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Creación de contenido de valor.
                 td Producción constante de contenido útil y actualizado que responda a búsquedas reales.
                 td #[em Blogs] corporativos optimizados en empresas como HubSpot.
@@ -77,7 +79,7 @@
     #t_13_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 13.3 Aplicabilidad
 
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+    .row.justify-content-center.align-items-center.mb-4.z-2
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema13/3.png", alt="")

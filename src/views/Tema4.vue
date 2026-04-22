@@ -10,10 +10,11 @@
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema4/1.png", alt="").z-2
     
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 El mercadeo digital integra las estrategias comerciales desarrolladas en entornos digitales con el propósito de atraer, convertir y fidelizar clientes mediante el uso de tecnologías, plataformas online y análisis de datos. Su principal ventaja radica en la segmentación precisa, la medición en tiempo real y la optimización constante de resultados. En la planeación del contenido digital, el #[em e-marketing] permite articular objetivos organizacionales con acciones comunicacionales medibles y orientadas al rendimiento.
+
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.1 Concepto
@@ -23,10 +24,10 @@
         p El #[em e-marketing] es la aplicación de los principios del #[em marketing] en entornos digitales, utilizando internet como canal central de comunicación, posicionamiento y comercialización. Su enfoque no se limita a vender productos o servicios, sino a construir relaciones sostenibles mediante experiencias digitales personalizadas.
         .p-4.rounded-4.bg-primario-p5.mb-4.mb-lg-0
           .row.justify-content-center.align-items-center
-            .col-xl-1.d-none.d-xl-block
+            .col-xl-2.d-none.d-xl-block
               figure
-                img(data-aos="fade-down-left", src="@/assets/curso/tema4/3.png", alt="")
-            .col-xl-11
+                img.w-80(data-aos="fade-down-left", src="@/assets/curso/tema4/3.png", alt="")
+            .col-xl-10
               p.mb-0 En el contexto del #[em e-marketing] digital, el contenido se convierte en el vehículo principal para ejecutar las estrategias definidas. Cada pieza de contenido —sea un artículo de blog, una publicación en redes sociales, un video o un correo electrónico— debe diseñarse considerando los objetivos comerciales, el público objetivo y los canales digitales seleccionados. Esta integración asegura que la comunicación contribuya directamente a los resultados del negocio.
       .col-sm-8.col-lg-4
         figure
@@ -58,7 +59,7 @@
 
     .row.justify-content-center.z-2
       .col-xl-10
-        .rounded-4.bg-primario-p5.mb-4.mb-lg-5
+        .rounded-4.bg-primario-p5.mb-3
           .row.justify-content-center.align-items-center
             .col-lg-9.col-xl-10
               .p-4
@@ -113,6 +114,7 @@
             h4.mb-3 Fidelización
             p.mb-0 Mantenimiento de relaciones a largo plazo mediante comunicación constante, contenido personalizado y beneficios exclusivos que incrementen la satisfacción, recompra y recomendación de la marca.
 
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
