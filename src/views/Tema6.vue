@@ -134,7 +134,7 @@
         .col-lg-9
           p.mb-4.mb-lg-0 Artículo para comprender cómo las redes sociales y los influencers impactan las estrategias de #[em marketing] y ventas, aportando una visión actualizada sobre tácticas modernas de posicionamiento digital: 
         .col-12.col-lg-3.col-xl-2
-          a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=To0O7JCtAI0", target="_blank")
+          a.boton.color-acento-botones.texto-oscuro(href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/297/660", target="_blank")
             span Enlace web
             i.fas.fa-file-code
 
@@ -146,7 +146,7 @@
         .col-lg-9
           p.mb-4.mb-lg-0 Artículo académico para comprender cómo la publicidad en redes sociodigitales, los algoritmos y la interacción con los usuarios alteran los hábitos de consumo en el entorno digital, lo cual es clave para diseñar campañas eficaces y centradas en el comportamiento del usuario: 
         .col-12.col-lg-3.col-xl-2
-          a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=To0O7JCtAI0", target="_blank")
+          a.boton.color-acento-botones.texto-oscuro(href="https://revistas.lasallep.edu.mx/index.php/huella/article/view/649/935", target="_blank")
             span Enlace web
             i.fas.fa-file-code
 

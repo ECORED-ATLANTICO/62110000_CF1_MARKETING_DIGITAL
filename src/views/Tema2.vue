@@ -104,7 +104,7 @@
       p.mb-0 El entorno digital posee características estructurales que lo diferencian del entorno tradicional y que condicionan la creación de contenido:
 
     .row.justify-content-center.mb-5
-      .col-6.col-md-3.col-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-6.col-md-4.col-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema2/6.png' alt='')
           .tarjeta.color-primario.shadow
@@ -112,7 +112,7 @@
               .row.justify-content-center
                 .col-auto.text-center
                   p.mb-0 Interactividad inmediata.
-      .col-6.col-md-3.col-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
+      .col-6.col-md-4.col-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema2/7.png' alt='')
           .tarjeta.color-primario.shadow
@@ -120,7 +120,7 @@
               .row.justify-content-center
                 .col-auto.text-center
                   p.mb-0 Medición en tiempo real.
-      .col-6.col-md-3.col-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-6.col-md-4.col-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema2/8.png' alt='')
           .tarjeta.color-primario.shadow
@@ -128,7 +128,7 @@
               .row.justify-content-center
                 .col-auto.text-center
                   p.mb-0 Viralidad potencial.
-      .col-6.col-md-3.col-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
+      .col-6.col-md-4.col-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema2/9.png' alt='')
           .tarjeta.color-primario.shadow
@@ -136,18 +136,18 @@
               .row.justify-content-center
                 .col-auto.text-center
                   p.mb-0 Segmentación avanzada.
-      .col-6.col-md-3.col-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
+      .col-6.col-md-4.col-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         .tarjeta-avatar
-          img.w-90(src='@/assets/curso/tema2/9.png' alt='')
+          img.w-90(src='@/assets/curso/tema2/10.png' alt='')
           .tarjeta.color-primario.shadow
             .p-3.pt-4
               .row.justify-content-center
                 .col-auto.text-center
                   p.mb-0 Multipantalla y movilidad.
 
-    p La interactividad implica que el consumidor no solo recibe mensajes, sino que responde, opina y co-crea contenido. La medición en tiempo real permite ajustar campañas durante su ejecución. La viralidad puede amplificar exponencialmente un mensaje, pero también una crisis reputacional.
+    p.mb-4 La interactividad implica que el consumidor no solo recibe mensajes, sino que responde, opina y co-crea contenido. La medición en tiempo real permite ajustar campañas durante su ejecución. La viralidad puede amplificar exponencialmente un mensaje, pero también una crisis reputacional.
 
-    .fullwidth-bg.fullwidth-bg--1
+    .fullwidth-bg.fullwidth-bg--3
     img(data-aos="fade-up")(src="@/assets/curso/tema2/11.png", alt="").z-2
     
     .row.justify-content-center.z-2.mb-3
@@ -155,7 +155,7 @@
         div.banner-text
           p.mb-0 Por ejemplo, cuando Zara detecta tendencias emergentes en redes sociales, ajusta rápidamente su comunicación digital para capitalizar el interés del mercado. Esa capacidad de respuesta evidencia comprensión profunda del entorno digital y su velocidad.
     
-    .p-4.rounded-4.bg-primario-p5.z-2
+    .p-4.rounded-4.bg-primario-p5.z-2.mb-5
       p.mb-0 En síntesis, el análisis del entorno digital permite anticipar cambios, adaptar formatos y diseñar contenidos alineados con el comportamiento del consumidor conectado. La planeación del contenido no puede realizarse sin este diagnóstico previo, ya que el ecosistema digital determina las reglas de interacción y competitividad.
       
 </template>

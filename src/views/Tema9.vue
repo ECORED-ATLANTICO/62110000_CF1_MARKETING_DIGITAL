@@ -157,7 +157,7 @@
         .col-lg-9
           p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente video, dónde se presentan aplicaciones prácticas de la inteligencia artificial en campañas digitales para mejorar la segmentación, personalización y efectividad de los contenidos:  
         .col-12.col-lg-3.col-xl-2
-          a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=VcwClSiAj_E", target="_blank")
+          a.boton.color-acento-botones.texto-oscuro(href="https://youtu.be/VcwClSiAj_E", target="_blank")
             span Abrir video
             i.fas.fa-file-video
 </template>

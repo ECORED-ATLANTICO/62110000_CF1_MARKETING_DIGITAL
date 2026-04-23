@@ -97,7 +97,7 @@
         .col-lg-9
           p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente video, el cual complementa la comprensión de las estrategias SEO y SEM mediante ejemplos prácticos aplicables al contenido digital, orientados a mejorar el posicionamiento y el rendimiento de las páginas en los motores de búsqueda: 
         .col-12.col-lg-3.col-xl-2
-          a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=VcwClSiAj_E", target="_blank")
+          a.boton.color-acento-botones.texto-oscuro(href="https://youtu.be/WhL__dMk4xM", target="_blank")
             span Abrir video
             i.fas.fa-file-video
 

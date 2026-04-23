@@ -366,7 +366,7 @@ export default {
     },
     {
       referencia:
-        'Cuervo-Sánchez, C. A. (2025). Las redes sociales y los influencers como parte de la estrategia de ventas: Un análisis bibliométrico. <em>aDResearch ESIC International Journal of Communication Research</em>, <em>34</em>, e297.',
+        'Cuervo-Sánchez, C. A. (2025). <em>Las redes sociales y los influencers como parte de la estrategia de ventas: Un análisis bibliométrico</em>. aDResearch ESIC International Journal of Communication Research, 34, e297.',
       link:
         'https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/297/660',
     },
@@ -387,7 +387,7 @@ export default {
     },
     {
       referencia:
-        'López Lazcano, M. (2025). La influencia de la publicidad en redes sociodigitales sobre los hábitos de consumo. <em>Huella de la Palabra</em>, <em>18</em>(18), 38–65.',
+        'López Lazcano, M. (2025). <em>La influencia de la publicidad en redes sociodigitales sobre los hábitos de consumo</em>. Huella de la Palabra, <em>18</em>(18), 38–65.',
       link:
         'https://revistas.lasallep.edu.mx/index.php/huella/article/view/649/935',
     },

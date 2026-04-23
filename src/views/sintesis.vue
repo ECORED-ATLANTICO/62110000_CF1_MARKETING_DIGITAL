@@ -5,7 +5,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/1-sintesis.png", alt="")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/1-sintesis.png", alt="El componente formativo Planeación del contenido digital integra el plan estratégico organizacional, el entorno digital, la mezcla de mercadeo y el e-marketing como bases para la formulación de estrategias online. Desarrolla la segmentación de mercados, la publicidad digital, la comunicación online y la creación de contenidos, incluyendo arquitectura web, consumidor digital e insights para orientar la conversión. Finalmente, aborda las estrategias de posicionamiento y visibilidad mediante SEM, SEO y SMO, consolidando un enfoque estratégico para planear, organizar y ejecutar contenidos digitales alineados con los objetivos organizacionales.")
       .col-lg-8
         p El componente formativo Planeación del contenido digital integra el plan estratégico organizacional, el entorno digital, la mezcla de mercadeo y el #[em e-marketing] como bases para la formulación de estrategias #[em online]. Desarrolla la segmentación de mercados, la publicidad digital, la comunicación #[em online] y la creación de contenidos, incluyendo arquitectura web, consumidor digital e #[em insights] para orientar la conversión. Finalmente, aborda las estrategias de posicionamiento y visibilidad mediante SEM, SEO y SMO, consolidando un enfoque estratégico para planear, organizar y ejecutar contenidos digitales alineados con los objetivos organizacionales.
     .row.justify-content-center

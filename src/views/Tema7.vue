@@ -54,7 +54,7 @@
                 th Características
                 th Ejemplo empresarial
             tbody
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Redes sociales.
                 td Alta interacción y viralización.
                 td Nike genera comunidad mediante campañas motivacionales.
@@ -62,7 +62,7 @@
                 td Sitio web corporativo.
                 td Información institucional y conversión.
                 td IKEA integra catálogo y tienda virtual.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td #[em Blog] empresarial.
                 td Contenido educativo o especializado.
                 td HubSpot posiciona contenido formativo en #[em marketing].
@@ -70,7 +70,7 @@
                 td Correo electrónico.
                 td Comunicación personalizada y segmentada.
                 td Amazon envía recomendaciones basadas en historial de compra.
-              tr
+              tr(style="background-color: #FFFFFF")
                 td Mensajería instantánea.
                 td Atención inmediata y soporte.
                 td Claro ofrece servicio al cliente vía chat digital.
@@ -103,7 +103,7 @@
                   th Función principal
                   th Ejemplo empresarial
               tbody
-                tr
+                tr(style="background-color: #FFFFFF")
                   td Publicaciones en #[em feed].
                   td Posicionamiento y visibilidad.
                   td Adidas presenta lanzamientos de productos.
@@ -111,7 +111,7 @@
                   td Historias.
                   td Comunicación inmediata y temporal.
                   td Starbucks promociona ofertas diarias.
-                tr
+                tr(style="background-color: #FFFFFF")
                   td Videos cortos.
                   td Alcance y viralización.
                   td Duolingo utiliza contenido humorístico para #[em engagement].
@@ -119,7 +119,7 @@
                   td Anuncios patrocinados.
                   td Amplificación segmentada.
                   td Samsung promociona nuevos dispositivos.
-                tr
+                tr(style="background-color: #FFFFFF")
                   td Boletines electrónicos.
                   td Fidelización y retención.
                   td Falabella envía promociones personalizadas.

@@ -115,10 +115,10 @@
               img.w-155(src="@/assets/curso/tema4/20.png", alt="alt")
           .col-sm-8.col-lg-8
             h5.text-white ¿Sabías qué?
-            p.text-white Lo invitamos a escuchar el siguiente Pódcast:
+            p.text-white Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-terciario.mb-3(
-              texto="“Charlas que venden” Episodio: Definir algunos principios básicos"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="Charlas que venden: Insights digitales"
+              :audio="require('@/assets/podcasts/P2_insights_digitales.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
 

@@ -120,8 +120,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Estrategias de #[em e-marketing]
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/10-mob.png", alt="")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/10.png", alt="")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/10-mob.png", alt="La figura 2 establece las estrategias clave del e-marketing.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/10.png", alt="La figura 2 establece las estrategias clave del e-marketing.")
         figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.z-2
@@ -195,10 +195,10 @@
               img.w-155(src="@/assets/curso/tema4/20.png", alt="alt")
           .col-sm-8.col-lg-8
             h5.text-white ¿Sabías qué?
-            p.text-white Lo invitamos a escuchar el siguiente Pódcast:
+            p.text-white Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-terciario.mb-3(
-              texto="“Charlas que venden” Episodio: Definir algunos principios básicos"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="E-marketing: estrategias y tácticas efectivas"
+              :audio="require('@/assets/podcasts/P1_e-marketing_estrategias_y_tacticas_efectivas.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
             

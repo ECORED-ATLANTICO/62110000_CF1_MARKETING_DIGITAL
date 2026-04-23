@@ -18,7 +18,7 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Fundamentos de la planeación del contenido digital',
-      titulo: 'Cuestionario',
+      titulo: 'Fundamentos de la planeación del contenido digital',
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión sobre la planeación del contenido digital y el <em>marketing</em> digital, fortaleciendo su capacidad de análisis estratégico en entornos digitales.',
       barajarPreguntas: true,
