@@ -13,7 +13,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 La conversión representa uno de los indicadores más importantes dentro de la estrategia digital, ya que mide el momento en que un usuario realiza la acción esperada por la empresa. No se limita únicamente a la compra; puede incluir registros, descargas, suscripciones o cualquier objetivo previamente definido. La conversión permite evaluar la efectividad del contenido, la segmentación y la comunicación online, convirtiéndose en un punto clave para la toma de decisiones estratégicas.
+          p.mb-0 La conversión representa uno de los indicadores más importantes dentro de la estrategia digital, ya que mide el momento en que un usuario realiza la acción esperada por la empresa. No se limita únicamente a la compra; puede incluir registros, descargas, suscripciones o cualquier objetivo previamente definido. La conversión permite evaluar la efectividad del contenido, la segmentación y la comunicación #[em online], convirtiéndose en un punto clave para la toma de decisiones estratégicas.
 
     Separador
     #t_11_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -55,7 +55,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema11/4.png", alt="")
       .col-lg-7
         .py-3.px-4.rounded-4.bg-terciario-t20
-          p.mb-0 Por ejemplo, si una tienda online como Zara recibe 10.000 visitas en su sitio web y 300 personas realizan una compra, la tasa de conversión sería del 3 %. En una campaña de generación de leads de LinkedIn Ads, si 1.000 personas ven el anuncio y 50 completan el formulario, la tasa sería del 5 %.
+          p.mb-0 Por ejemplo, si una tienda #[em online] como Zara recibe 10.000 visitas en su sitio web y 300 personas realizan una compra, la tasa de conversión sería del 3 %. En una campaña de generación de leads de LinkedIn Ads, si 1.000 personas ven el anuncio y 50 completan el formulario, la tasa sería del 5 %.
     .row.justify-content-center.z-2
       .col-xl-10
         .p-4.rounded-4.bg-primario-p10.mb-4

@@ -13,7 +13,7 @@
     .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 El mercadeo digital integra las estrategias comerciales desarrolladas en entornos digitales con el propósito de atraer, convertir y fidelizar clientes mediante el uso de tecnologías, plataformas online y análisis de datos. Su principal ventaja radica en la segmentación precisa, la medición en tiempo real y la optimización constante de resultados. En la planeación del contenido digital, el #[em e-marketing] permite articular objetivos organizacionales con acciones comunicacionales medibles y orientadas al rendimiento.
+          p.mb-0 El mercadeo digital integra las estrategias comerciales desarrolladas en entornos digitales con el propósito de atraer, convertir y fidelizar clientes mediante el uso de tecnologías, plataformas #[em online] y análisis de datos. Su principal ventaja radica en la segmentación precisa, la medición en tiempo real y la optimización constante de resultados. En la planeación del contenido digital, el #[em e-marketing] permite articular objetivos organizacionales con acciones comunicacionales medibles y orientadas al rendimiento.
 
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -28,7 +28,7 @@
               figure
                 img.w-80(data-aos="fade-down-left", src="@/assets/curso/tema4/3.png", alt="")
             .col-xl-10
-              p.mb-0 En el contexto del #[em e-marketing] digital, el contenido se convierte en el vehículo principal para ejecutar las estrategias definidas. Cada pieza de contenido —sea un artículo de blog, una publicación en redes sociales, un video o un correo electrónico— debe diseñarse considerando los objetivos comerciales, el público objetivo y los canales digitales seleccionados. Esta integración asegura que la comunicación contribuya directamente a los resultados del negocio.
+              p.mb-0 En este contexto, la comunicación es bidireccional: las organizaciones emiten mensajes y, al mismo tiempo, reciben retroalimentación inmediata a través de comentarios, interacciones y datos de comportamiento. Por ejemplo, Netflix analiza los hábitos de visualización para recomendar contenido personalizado, convirtiendo la experiencia en un elemento estratégico de fidelización. Así, el #[em e-marketing] transforma la relación tradicional empresa–cliente en un proceso dinámico basado en datos, interacción y valor percibido. 
       .col-sm-8.col-lg-4
         figure
           img(data-aos="fade-down-left", src="@/assets/curso/tema4/2.png", alt="")
@@ -178,7 +178,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-lg-7
         .p-4.rounded-4.bg-primario-p10.mb-4.mb-lg-0
-          p Un caso representativo es Adidas, que utiliza campañas de #[em remarketing] para impactar nuevamente a usuarios que visitaron su tienda online pero no finalizaron la compra, incrementando así la tasa de conversión.
+          p Un caso representativo es Adidas, que utiliza campañas de #[em remarketing] para impactar nuevamente a usuarios que visitaron su tienda #[em online] pero no finalizaron la compra, incrementando así la tasa de conversión.
           p.mb-0 Mientras la estrategia define el rumbo, las tácticas materializan la ejecución mediante herramientas y acciones específicas.
       .col-lg-5
         figure

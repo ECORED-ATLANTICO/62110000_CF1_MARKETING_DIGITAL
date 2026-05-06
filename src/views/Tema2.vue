@@ -7,6 +7,7 @@
         span 2
       h1 Entorno digital
 
+    .mb-5
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema2/1.png", alt="").z-2
     
@@ -32,7 +33,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/3.png", alt="")
       .col-lg-8
-        p El entorno digital puede entenderse como el ecosistema dinámico en el que interactúan organizaciones, consumidores, plataformas tecnológicas y flujos permanentes de información. Está conformado por redes sociales, motores de búsqueda, sitios web, aplicaciones móviles, marketplaces y sistemas de análisis de datos que permiten medir el comportamiento del usuario en tiempo real.
+        p El entorno digital puede entenderse como el ecosistema dinámico en el que interactúan organizaciones, consumidores, plataformas tecnológicas y flujos permanentes de información. Está conformado por redes sociales, motores de búsqueda, sitios web, aplicaciones móviles, #[em marketplaces] y sistemas de análisis de datos que permiten medir el comportamiento del usuario en tiempo real.
         .cajon.color-acento-contenido.p-4
           p.mb-0 En este espacio, la comunicación deja de ser unidireccional y se convierte en un proceso interactivo donde el consumidor participa activamente mediante comentarios, reseñas, compartidos y generación de contenido propio. La marca ya no controla completamente el mensaje; debe gestionarlo estratégicamente dentro de un escenario abierto y competitivo.
 

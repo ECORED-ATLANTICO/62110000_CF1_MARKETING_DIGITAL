@@ -22,7 +22,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-lg-6.col-xl-4
         .p-4.rounded-4.bg-primario-p10.mb-4.mb-lg-0
-          p.mb-0 El #[em Search Engine Marketing] (SEM) es el conjunto de estrategias de #[em marketing] digital que utilizan anuncios pagos en motores de búsqueda para atraer tráfico cualificado hacia un sitio web. Generalmente opera bajo modelos de pago por clic (CPC), donde el anunciante paga únicamente cuando el usuario hace clic en el anuncio.
+          p.mb-0 El #[em Search Engine Optimization] (SEO) es el conjunto de técnicas y estrategias destinadas a mejorar el posicionamiento orgánico de un sitio web en motores de búsqueda como Google. Su objetivo principal es aumentar el tráfico cualificado sin recurrir a publicidad pagada. 
       .col-xl-4.d-none.d-xl-block
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema13/2.png", alt="")
@@ -57,10 +57,10 @@
               tr(style="background-color: #FFFFFF")
                 td SEO #[em On-Page].
                 td Optimización interna del sitio: palabras clave, meta descripciones, títulos, encabezados y calidad del contenido.
-                td Shopify optimiza artículos con keywords orientadas a emprendedores.
+                td Shopify optimiza artículos con #[em keywords] orientadas a emprendedores.
               tr(style="background-color: #F6F6F6")
                 td SEO Técnico.
-                td Mejora de velocidad de carga, diseño responsive y arquitectura web.
+                td Mejora de velocidad de carga, diseño #[em responsive] y arquitectura web.
                 td Amazon prioriza tiempos de carga rápidos para mejorar posicionamiento.
               tr(style="background-color: #FFFFFF")
                 td SEO #[em Off-Page].

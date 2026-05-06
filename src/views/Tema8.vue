@@ -83,7 +83,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema8/3.png", alt="")
       .col-lg-8
-        p La metodología para la creación de contenidos digitales implica un proceso estructurado que integra análisis, planificación, producción, publicación y evaluación. No se trata de crear por intuición, sino de seguir un enfoque estratégico basado en datos. A continuación, se presentan las etapas que estructuran la metodología para la gestión estratégica de contenidos digitales.
+        p La aplicabilidad de los contenidos depende de su coherencia con el segmento y el objetivo estratégico. Un contenido informativo puede ser adecuado para generar reconocimiento de marca, mientras que un contenido demostrativo puede impulsar la conversión. 
         .px-4.py-3.rounded-4.bg-primario-p10.mb-3
           p.mb-0 Por ejemplo, Burger King utiliza contenido creativo y tono irreverente en redes sociales para generar conversación y aumentar la interacción con su comunidad digital. En contraste, Tesla comunica innovación mediante lanzamientos y demostraciones tecnológicas que fortalecen su posicionamiento como marca disruptiva.
         p.mb-0 La correcta aplicabilidad exige definir propósito, formato, frecuencia y canal, asegurando que cada pieza contribuya a un resultado medible.

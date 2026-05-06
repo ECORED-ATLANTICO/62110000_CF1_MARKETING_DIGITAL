@@ -58,11 +58,11 @@
                 th Incidencia en el contenido digital
             tbody
               tr
-                td Misión
+                td Misión.
                 td Define la razón de ser de la organización.
                 td Determina el propósito central del mensaje comunicacional.
               tr(style="background-color: #F6F6F6")
-                td Visión
+                td Visión.
                 td Expresa la proyección futura deseada.
                 td Orienta el posicionamiento aspiracional en redes sociales.
               tr

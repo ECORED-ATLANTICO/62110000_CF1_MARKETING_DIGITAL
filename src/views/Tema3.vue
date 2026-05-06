@@ -29,7 +29,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/2.png", alt="")
       .col-lg-6
-        p.mb-4 En el entorno digital, adquiere una dimensión ampliada, ya que el contenido se convierte en el vehículo principal de promoción, la plaza incluye plataformas digitales y el producto incorpora atributos intangibles como experiencia y reputación online.
+        p.mb-4 En el entorno digital, adquiere una dimensión ampliada, ya que el contenido se convierte en el vehículo principal de promoción, la plaza incluye plataformas digitales y el producto incorpora atributos intangibles como experiencia y reputación #[em online].
         .p-4.rounded-4.bg-secundario-s5
           p.mb-0 Por ejemplo, Coca-Cola no comunica únicamente una bebida; comunica emociones, momentos y experiencias compartidas. Su contenido digital refuerza el componente promocional, pero también fortalece el valor simbólico del producto. De igual manera, Amazon integra producto, precio dinámico y distribución digital en su comunicación, utilizando contenido personalizado que impulsa decisiones de compra inmediatas.
 
@@ -73,7 +73,7 @@
         .rounded-4.bg-primario-p5.mb-4.mb-lg-5
           .row.justify-content-center.align-items-center
             .col-lg-9.col-xl-10
-              p.p-4.mb-0 Cuando una empresa tecnológica lanza un nuevo dispositivo, por ejemplo, el contenido digital puede centrarse en demostraciones funcionales (producto), comparaciones competitivas (precio), enlaces directos a tienda online (plaza) y campañas de expectativa (promoción). Esta integración asegura coherencia estratégica.
+              p.p-4.mb-0 Cuando una empresa tecnológica lanza un nuevo dispositivo, por ejemplo, el contenido digital puede centrarse en demostraciones funcionales (producto), comparaciones competitivas (precio), enlaces directos a tienda #[em online] (plaza) y campañas de expectativa (promoción). Esta integración asegura coherencia estratégica.
             .col-lg-3.col-xl-2
               figure
                 img.w-190(data-aos="fade-down-left", src="@/assets/curso/tema3/8.png", alt="")
@@ -108,7 +108,7 @@
           .tarjeta.p-4(titulo="Producto")
             p.mb-4 #[strong Producto]
             p.mb-4 #[strong Enfoque tradicional:] características físicas y funcionales.
-            p #[strong Enfoque digital:] experiencia digital, reseñas, reputación online.
+            p #[strong Enfoque digital:] experiencia digital, reseñas, reputación #[em online].
           .tarjeta.p-4(titulo="Precio")
             p.mb-4 #[strong Precio]
             p.mb-4 #[strong Enfoque tradicional:] valor monetario definido.

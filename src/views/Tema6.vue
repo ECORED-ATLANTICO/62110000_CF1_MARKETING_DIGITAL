@@ -113,6 +113,11 @@
             .row.justify-content-center
               .col-lg-10
                 h4 #[em Search Ads]
+                p #[strong Características:] anuncios en resultados patrocinados de buscadores.
+                p.mb-0 #[strong Aplicación principal:] captación de demanda activa.
+            .row.justify-content-center
+              .col-lg-10
+                h4 #[em Video Ads]
                 p #[strong Características:] contenido audiovisual antes o durante reproducciones digitales.
                 p.mb-0 #[strong Aplicación principal:] impacto visual y recordación.
             .row.justify-content-center

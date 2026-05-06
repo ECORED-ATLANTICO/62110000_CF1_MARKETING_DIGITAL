@@ -25,7 +25,7 @@
         p.d-block El consumidor digital es la persona que utiliza medios y plataformas digitales para buscar información, comparar opciones, interactuar con marcas y realizar procesos de compra o contratación de servicios. Su comportamiento está influenciado por la conectividad, el acceso a dispositivos móviles y la disponibilidad inmediata de datos.
     
     .p-4.bg-terciario-t20.rounded-4
-      p.mb-0 Este tipo de consumidor se informa antes de comprar, consulta opiniones y valora la reputación online de las marcas. Por ejemplo, antes de adquirir un producto tecnológico, un usuario puede revisar reseñas en línea, comparar precios y analizar valoraciones de otros compradores en plataformas como Amazon o Mercado Libre. El consumidor digital exige transparencia, rapidez y personalización en la comunicación.
+      p.mb-0 Este tipo de consumidor se informa antes de comprar, consulta opiniones y valora la reputación #[em online] de las marcas. Por ejemplo, antes de adquirir un producto tecnológico, un usuario puede revisar reseñas en línea, comparar precios y analizar valoraciones de otros compradores en plataformas como Amazon o Mercado Libre. El consumidor digital exige transparencia, rapidez y personalización en la comunicación.
 
     Separador
     #t_9_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")

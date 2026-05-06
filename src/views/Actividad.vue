@@ -97,7 +97,7 @@ export default {
         {
           id: 4,
           texto:
-            'La mezcla de mercadeo digital incluye producto, precio, plaza y promoción adaptados al mundo online.',
+            'La mezcla de mercadeo digital incluye producto, precio, plaza y promoción adaptados al mundo #[em online].',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -257,7 +257,8 @@ export default {
         },
         {
           id: 11,
-          texto: 'Los insights digitales son simples datos sin análisis.',
+          texto:
+            'Los <em>insights</em> digitales son simples datos sin análisis.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

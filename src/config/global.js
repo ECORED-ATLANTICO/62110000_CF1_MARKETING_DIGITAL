@@ -248,7 +248,7 @@ export default {
         'Herramienta de planificación que organiza fechas, formatos y temáticas de publicación de contenidos digitales.',
     },
     {
-      termino: 'Comunicación online',
+      termino: 'Comunicación <em>online</em>',
       significado:
         'Proceso de interacción bidireccional entre la marca y los usuarios a través de canales digitales.',
     },
@@ -313,7 +313,7 @@ export default {
         'Documento que define objetivos, estrategias y acciones para posicionar la marca en medios digitales.',
     },
     {
-      termino: 'Posicionamiento online',
+      termino: 'Posicionamiento <em>online</em>',
       significado:
         'Percepción y lugar que ocupa una marca en la mente del consumidor dentro del entorno digital.',
     },
@@ -325,7 +325,7 @@ export default {
     {
       termino: 'Publicidad digital',
       significado:
-        'Estrategias pagadas en plataformas online para promocionar productos o servicios de manera segmentada.',
+        'Estrategias pagadas en plataformas #[em online] para promocionar productos o servicios de manera segmentada.',
     },
     {
       termino: 'Público objetivo',
