@@ -64,10 +64,10 @@
       )
       .bloque-texto-g__texto.p-4
         p.d-block La aplicabilidad de los #[em insights] consiste en convertir la comprensión obtenida en acciones concretas dentro de la estrategia digital. Cuando un #[em insight] se integra correctamente, orienta la creación de contenidos, la selección de mensajes y la definición de propuestas diferenciadoras.
-        p.d-block.mb-0 Por ejemplo, Dove identificó el #[em insight] relacionado con la inseguridad femenina frente a los estándares de belleza irreales. A partir de ello, desarrolló campañas centradas en la belleza real, logrando conexión emocional y posicionamiento de marca. De manera similar, Spotify utiliza #[em insights] basados en hábitos de escucha para personalizar listas y campañas como “Wrapped”, fortaleciendo la experiencia del usuario.
+        p.d-block.mb-0 Por ejemplo, Dove identificó el #[em insight] relacionado con la inseguridad femenina frente a los estándares de belleza irreales. A partir de ello, desarrolló campañas centradas en la belleza real, logrando conexión emocional y posicionamiento de marca. De manera similar, Spotify utiliza #[em insights] basados en hábitos de escucha para personalizar listas y campañas como “#[em wrapped]”, fortaleciendo la experiencia del usuario.
 
     .p-4.rounded-4.bg-primario-p5.mb-4.mb-lg-5
-      p.mb-0.text-center A continuación, se presentan ejemplos de cómo un #[em insight] puede transformarse en acción estratégica.
+      p.mb-0 A continuación, se presentan ejemplos de cómo un #[em insight] puede transformarse en acción estratégica.
       
     .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.z-2.mb-4.mb-lg-5

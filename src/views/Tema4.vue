@@ -139,7 +139,7 @@
       h2 4.4 Tácticas
 
     .p-4.rounded-4.bg-secundario-s5.mb-4.mb-lg-5
-      p.mb-0.text-center Las tácticas son las acciones concretas que permiten ejecutar las estrategias definidas. Representan el nivel operativo del #[em e-marketing] y se apoyan en herramientas tecnológicas específicas.
+      p.mb-0 Las tácticas son las acciones concretas que permiten ejecutar las estrategias definidas. Representan el nivel operativo del #[em e-marketing] y se apoyan en herramientas tecnológicas específicas.
 
     p.mb-4.mb-lg-5 Entre las tácticas más relevantes se encuentran:
 

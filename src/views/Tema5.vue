@@ -70,10 +70,10 @@
           p.mb-0(numero="2" titulo="Segmentación geográfica") Divide el mercado según ubicación física. En entornos digitales se aplica a campañas locales o regionales.
           p(numero="3" titulo="Segmentación psicográfica") Considera estilo de vida, intereses, valores y personalidad. Es clave para la construcción de identidad de marca.
           p.mb-0(numero="4" titulo="Segmentación conductual") Se basa en el comportamiento del usuario, frecuencia de compra, interacción con contenidos, historial de navegación y nivel de fidelidad.
-          p.mb-0(numero="5" titulo="Microsegmentación digital") utiliza algoritmos y datos masivos para crear audiencias específicas. Permite personalizar anuncios y contenidos con alto nivel de precisión.
+          p.mb-0(numero="5" titulo="Microsegmentación digital") Utiliza algoritmos y datos masivos para crear audiencias específicas. Permite personalizar anuncios y contenidos con alto nivel de precisión.
         
     .p-4.rounded-4.bg-primario-p10
-      p.mb-0.text-center Estas técnicas permiten optimizar campañas en entornos SEM, redes sociales y estrategias de contenido orgánico, alineando el mensaje con expectativas concretas del usuario.
+      p.mb-0 Estas técnicas permiten optimizar campañas en entornos SEM, redes sociales y estrategias de contenido orgánico, alineando el mensaje con expectativas concretas del usuario.
       
     Separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -144,7 +144,7 @@
           figure
             img(data-aos="fade-down-left", src="@/assets/curso/tema5/13.png", alt="")
         .col-lg-9
-          p.mb-4.mb-lg-0 Lo invitamos a visualizar el siguiente video para afianzar los conocimientos de segmentación de mercado y profundizar en cómo se divide un mercado en segmentos relevantes, por qué es crucial para dirigir mensajes adecuados y cómo esto impacta directamente en el éxito de estrategias digitales: 
+          p.mb-4.mb-lg-0 Lo invitamos a explorar el siguiente video para afianzar los conocimientos de segmentación de mercado y profundizar en cómo se divide un mercado en segmentos relevantes, por qué es crucial para dirigir mensajes adecuados y cómo esto impacta directamente en el éxito de estrategias digitales: 
         .col-12.col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=To0O7JCtAI0", target="_blank")
             span Abrir video

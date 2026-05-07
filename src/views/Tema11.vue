@@ -47,7 +47,7 @@
     .row.justify-content-center.z-2
       .col-xl-10
         .p-4.rounded-4.bg-primario-p5.mb-4
-          p.mb-0.text-center Tasa de conversión = (Número de conversiones / Número total de visitantes) × 100
+          p.mb-0 Tasa de conversión = (Número de conversiones / Número total de visitantes) × 100
 
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-sm-10.col-lg-5
@@ -55,11 +55,11 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema11/4.png", alt="")
       .col-lg-7
         .py-3.px-4.rounded-4.bg-terciario-t20
-          p.mb-0 Por ejemplo, si una tienda #[em online] como Zara recibe 10.000 visitas en su sitio web y 300 personas realizan una compra, la tasa de conversión sería del 3 %. En una campaña de generación de leads de LinkedIn Ads, si 1.000 personas ven el anuncio y 50 completan el formulario, la tasa sería del 5 %.
+          p.mb-0 Por ejemplo, si una tienda #[em online] como Zara recibe 10.000 visitas en su sitio web y 300 personas realizan una compra, la tasa de conversión sería del 3 %. En una campaña de generación de #[em leads] de LinkedIn Ads, si 1.000 personas ven el anuncio y 50 completan el formulario, la tasa sería del 5 %.
     .row.justify-content-center.z-2
       .col-xl-10
         .p-4.rounded-4.bg-primario-p10.mb-4
-          p.mb-0.text-center Este indicador permite evaluar la eficiencia de la estrategia digital y detectar oportunidades de optimización.
+          p.mb-0 Este indicador permite evaluar la eficiencia de la estrategia digital y detectar oportunidades de optimización.
 
     .fullwidth-bg.fullwidth-bg--2
     Separador

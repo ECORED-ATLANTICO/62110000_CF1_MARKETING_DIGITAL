@@ -137,7 +137,7 @@
           figure
             img.w-55(data-aos="fade-down-left", src="@/assets/curso/tema6/6.png", alt="")
         .col-lg-9
-          p.mb-4.mb-lg-0 Artículo para comprender cómo las redes sociales y los influencers impactan las estrategias de #[em marketing] y ventas, aportando una visión actualizada sobre tácticas modernas de posicionamiento digital: 
+          p.mb-4.mb-lg-0 Artículo para comprender cómo las redes sociales y los #[em influencers] impactan las estrategias de #[em marketing] y ventas, aportando una visión actualizada sobre tácticas modernas de posicionamiento digital: 
         .col-12.col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/297/660", target="_blank")
             span Enlace web

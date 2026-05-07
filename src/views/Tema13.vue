@@ -28,7 +28,7 @@
           img(data-aos="fade-down-right", src="@/assets/curso/tema13/2.png", alt="")
       .col-lg-6.col-xl-4
         .p-4.rounded-4.bg-secundario-s5
-          p.mb-0 La plataforma más utilizada para este tipo de estrategias es Google Ads, que permite posicionar anuncios en el buscador Google según palabras clave específicas. También existen opciones como Microsoft Advertising, vinculada al buscador Bing.
+          p.mb-0 El SEO se basa en factores como la relevancia del contenido, el uso adecuado de palabras clave, la estructura del sitio web y la autoridad del dominio. Por ejemplo, cuando un usuario busca ‘estrategias de <em>marketing</em> digital’, páginas como HubSpot o Neil Patel aparecen en los primeros resultados gracias a su optimización orgánica. 
     
     .p-4.rounded-4.bg-primario-p5
       p.mb-0.text-center El SEO es una estrategia de mediano y largo plazo que contribuye a la sostenibilidad digital de la marca.

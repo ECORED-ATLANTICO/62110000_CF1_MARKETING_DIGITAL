@@ -217,7 +217,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA1_62110000_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -275,12 +275,12 @@ export default {
     {
       termino: 'Entorno digital',
       significado:
-        'Ecosistema tecnológico donde interactúan usuarios, marcas, plataformas y herramientas online.',
+        'Ecosistema tecnológico donde interactúan usuarios, marcas, plataformas y herramientas <em>online</em>.',
     },
     {
       termino: 'Formato digital',
       significado:
-        'Tipo de presentación del contenido, como video, imagen, carrusel, reel, blog o infografía.',
+        'Tipo de presentación del contenido, como video, imagen, carrusel, <em>reel</em>, <em>blog</em> o infografía.',
     },
     {
       termino: '<em>Insight</em>',

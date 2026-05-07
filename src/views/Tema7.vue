@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.z-2
       .col-xl-10
         .p-4.rounded.bg-secundario-s10
-          p.mb-0.text-center Empresas como Coca-Cola, Nike y Amazon han fortalecido su posicionamiento global gracias a estrategias de comunicación #[em online] coherentes, centradas en la experiencia del usuario y adaptadas a distintos entornos digitales.
+          p.mb-0 Empresas como Coca-Cola, Nike y Amazon han fortalecido su posicionamiento global gracias a estrategias de comunicación #[em online] coherentes, centradas en la experiencia del usuario y adaptadas a distintos entornos digitales.
 
     Separador
     #t_7_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")

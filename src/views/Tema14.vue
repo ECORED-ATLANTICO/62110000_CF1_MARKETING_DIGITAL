@@ -30,7 +30,7 @@
           p.mb-0 Por ejemplo, marcas como Nike optimizan su biografía, enlaces, #[em hashtags] y formatos visuales para mantener coherencia y fortalecer su presencia digital. De igual manera, Starbucks utiliza contenido visual atractivo y consistente para aumentar interacción y recordación de marca.
     
     .p-4.rounded-4.bg-primario-p5
-      p.mb-0 El SMO no se limita a publicar contenido, sino a estructurarlo estratégicamente para maximizar resultados
+      p.mb-0 El SMO no se limita a publicar contenido, sino a estructurarlo estratégicamente para maximizar resultados.
 
 
     Separador

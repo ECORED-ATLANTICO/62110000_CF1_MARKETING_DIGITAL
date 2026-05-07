@@ -57,7 +57,7 @@
         div.banner-text
           p.mb-0 El entorno digital no es un escenario estático; es un sistema dinámico influenciado por factores tecnológicos, sociales, competitivos, económicos y normativos que determinan la forma en que las marcas interactúan con sus audiencias. Comprender estas variables es fundamental para estructurar estrategias de contenido coherentes, pertinentes y orientadas a resultados comerciales. Antes de diseñar cualquier plan de publicaciones o campañas digitales, la organización debe analizar estas condiciones para garantizar que sus decisiones comunicacionales respondan al contexto real del mercado.
 
-    .p-4.rounded-4.bg-secundario-s5.text-center.mb-5.z-2
+    .p-4.rounded-4.bg-secundario-s5.mb-5.z-2
       p.mb-0 A continuación, se presentan las principales variables del entorno digital y su impacto directo en la creación de contenido estratégico.
 
     .row.justify-content-center.mb-4.mb-lg-5.z-2
@@ -101,7 +101,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.3 Características
 
-    .p-4.rounded-4.bg-secundario-s5.text-center
+    .p-4.rounded-4.bg-secundario-s5
       p.mb-0 El entorno digital posee características estructurales que lo diferencian del entorno tradicional y que condicionan la creación de contenido:
 
     .row.justify-content-center.mb-5

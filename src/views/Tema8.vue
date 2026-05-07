@@ -22,7 +22,7 @@
     #t_8_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 8.1 Concepto
       
-    p.mb-4.z-2 El contenido digital es el conjunto de piezas comunicativas diseñadas y difundidas en medios digitales con el propósito de generar valor para una audiencia específica. Puede adoptar diversos formatos como artículos, videos, infografías, publicaciones en redes sociales, podcasts o recursos descargables.
+    p.mb-4.z-2 El contenido digital es el conjunto de piezas comunicativas diseñadas y difundidas en medios digitales con el propósito de generar valor para una audiencia específica. Puede adoptar diversos formatos como artículos, videos, infografías, publicaciones en redes sociales, #[em podcasts] o recursos descargables.
 
     .row.justify-content-center.align-items-center.z-2
       .col-sm-8.col-lg-4
@@ -43,7 +43,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
-          span Etapas de la metodología para la gestión de contenidos
+          span Metodología para la gestión de contenidos digitales
         .tabla-a.color-secundario
           table
             caption Nota. SENA, (2026).

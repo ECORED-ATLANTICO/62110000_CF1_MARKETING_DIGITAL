@@ -116,7 +116,7 @@
           .tarjeta.p-4(titulo="Plaza")
             p.mb-4 #[strong Plaza]
             p.mb-4 #[strong Enfoque tradicional:] canales físicos de distribución.
-            p #[strong Enfoque digital:] #[em e-commerce], #[em marketplaces], redes sociales, apps.
+            p #[strong Enfoque digital:] #[em e-commerce], #[em marketplaces], redes sociales, #[em apps].
           .tarjeta.p-4(titulo="Promoción")
             p.mb-4 #[strong Promoción]
             p.mb-4 #[strong Enfoque tradicional:] publicidad y ventas tradicionales.
