@@ -85,21 +85,21 @@
                 th Aplicación empresarial
             tbody
               tr(style="background-color: #FFFFFF")
-                td Búsqueda activa de información.
-                td Investiga antes de comprar.
-                td Usuarios comparan productos en Mercado Libre.
+                td Usuarios buscan autenticidad en redes sociales.
+                td Valoran marcas transparentes y cercanas.
+                td Dove desarrolla campañas con testimonios reales.
               tr(style="background-color: #F6F6F6")
-                td Influencia social.
-                td Considera opiniones y reseñas.
-                td Clientes revisan valoraciones en Tripadvisor.
+                td Consumidores prefieren experiencias personalizadas.
+                td La personalización aumenta fidelización.
+                td Spotify crea listas personalizadas según hábitos.
               tr(style="background-color: #FFFFFF")
-                td Multicanalidad.
-                td Utiliza varios dispositivos y plataformas.
-                td Compra en #[em app] móvil y consulta #[em web] de Falabella.
+                td Usuarios abandonan compras por costos ocultos.
+                td La transparencia genera confianza.
+                td Amazon muestra precios y tiempos de entrega claros.
               tr(style="background-color: #F6F6F6")
-                td Inmediatez.
-                td Espera respuestas rápidas.
-                td Solicita soporte inmediato en Rappi.
+                td Públicos jóvenes responden a contenido dinámico.
+                td El formato influye en la interacción.
+                td Duolingo utiliza videos cortos y humor.
 
     .p-4.rounded-4.bg-secundario-s5.mb-4.mb-lg-5
       p.mb-0 El #[em insight], cuando se fundamenta en datos y se interpreta estratégicamente, se convierte en un elemento diferenciador que orienta decisiones comunicativas y comerciales con mayor precisión.

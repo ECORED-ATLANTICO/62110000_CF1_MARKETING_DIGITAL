@@ -22,7 +22,7 @@ export default {
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión sobre la planeación del contenido digital y el <em>marketing</em> digital, fortaleciendo su capacidad de análisis estratégico en entornos digitales.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {

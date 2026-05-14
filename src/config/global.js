@@ -325,7 +325,7 @@ export default {
     {
       termino: 'Publicidad digital',
       significado:
-        'Estrategias pagadas en plataformas #[em online] para promocionar productos o servicios de manera segmentada.',
+        'Estrategias pagadas en plataformas <em>online</em> para promocionar productos o servicios de manera segmentada.',
     },
     {
       termino: 'Público objetivo',
