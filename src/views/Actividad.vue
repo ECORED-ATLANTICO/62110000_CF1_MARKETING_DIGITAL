@@ -18,9 +18,9 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Fundamentos de la planeación del contenido digital',
-      titulo: 'Fundamentos de la planeación del contenido digital',
+      titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la comprensión sobre la planeación del contenido digital y el <em>marketing</em> digital, fortaleciendo su capacidad de análisis estratégico en entornos digitales.',
+        '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales del análisis de datos y del cliente digital para apoyar la toma de decisiones en entornos digitales.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -44,7 +44,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -67,7 +67,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -90,14 +90,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
           texto:
-            'La mezcla de mercadeo digital incluye producto, precio, plaza y promoción adaptados al mundo #[em online].',
+            'La mezcla de mercadeo digital incluye producto, precio, plaza y promoción adaptados al mundo <em>online</em>.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -113,7 +113,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -136,7 +136,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -159,7 +159,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -182,7 +182,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -205,7 +205,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -228,7 +228,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -251,7 +251,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -274,7 +274,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -297,7 +297,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -320,7 +320,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -342,7 +342,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -365,7 +365,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -388,7 +388,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -411,7 +411,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -434,7 +434,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -456,7 +456,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -479,7 +479,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre las normas.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos para el análisis de datos y el cliente digital. ',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },

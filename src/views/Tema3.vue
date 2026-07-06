@@ -106,19 +106,15 @@
       .col-lg-8
         TabsA.color-acento-botones
           .tarjeta.p-4(titulo="Producto")
-            p.mb-4 #[strong Producto]
             p.mb-4 #[strong Enfoque tradicional:] características físicas y funcionales.
             p #[strong Enfoque digital:] experiencia digital, reseñas, reputación #[em online].
           .tarjeta.p-4(titulo="Precio")
-            p.mb-4 #[strong Precio]
             p.mb-4 #[strong Enfoque tradicional:] valor monetario definido.
             p #[strong Enfoque digital:] precios dinámicos, promociones digitales, percepción de valor.
           .tarjeta.p-4(titulo="Plaza")
-            p.mb-4 #[strong Plaza]
             p.mb-4 #[strong Enfoque tradicional:] canales físicos de distribución.
             p #[strong Enfoque digital:] #[em e-commerce], #[em marketplaces], redes sociales, #[em apps].
           .tarjeta.p-4(titulo="Promoción")
-            p.mb-4 #[strong Promoción]
             p.mb-4 #[strong Enfoque tradicional:] publicidad y ventas tradicionales.
             p #[strong Enfoque digital:] contenido digital, anuncios segmentados, #[em marketing] de influencia.
 

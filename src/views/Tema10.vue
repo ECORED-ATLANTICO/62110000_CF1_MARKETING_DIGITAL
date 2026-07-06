@@ -35,7 +35,7 @@
             figure
               img(src="@/assets/curso/tema10/3.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Relevancia para el consumidor
+            h4.mb-3.text-center Relevancia para el consumidor
             p.mb-0 Debe responder a una necesidad, deseo o problema real. Si no es importante para el público, no genera impacto.
     
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -44,7 +44,7 @@
             figure
               img(src="@/assets/curso/tema10/4.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Conexión emocional
+            h4.mb-3.text-center Conexión emocional
             p.mb-0 Activa emociones como confianza, identificación o pertenencia. Las decisiones de compra también se basan en sentimientos.
     
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -53,7 +53,7 @@
             figure
               img(src="@/assets/curso/tema10/5.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Aplicabilidad estratégica
+            h4.mb-3.text-center Aplicabilidad estratégica
             p.mb-0 Debe transformarse en acciones concretas de comunicación y #[em marketing]. Un #[em insight] útil guía decisiones y mejora resultados.
     Separador
     #t_10_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")

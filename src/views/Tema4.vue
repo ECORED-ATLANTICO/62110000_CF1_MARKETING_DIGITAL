@@ -84,7 +84,7 @@
             figure
               img(src="@/assets/curso/tema4/6.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Atracción
+            h4.mb-3.text-center Atracción
             p.mb-0 Generación de contenido relevante y de valor que responda a las necesidades e intereses del público objetivo, con el fin de captar tráfico cualificado hacia los canales digitales de la organización y aumentar la visibilidad de la marca.
     
       .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
@@ -93,7 +93,7 @@
             figure
               img(src="@/assets/curso/tema4/7.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Posicionamiento digital
+            h4.mb-3.text-center Posicionamiento digital
             p.mb-0 Fortalecimiento de la presencia en buscadores y redes sociales mediante optimización de contenido, uso estratégico de palabras clave y coherencia en la identidad digital, con el propósito de mejorar la recordación y autoridad de marca.
     
       .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
@@ -102,7 +102,7 @@
             figure
               img(src="@/assets/curso/tema4/8.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Conversión
+            h4.mb-3.text-center Conversión
             p.mb-0 Diseño de embudos digitales estructurados que guíen al usuario desde el interés inicial hasta la acción deseada, utilizando llamados a la acción, páginas optimizadas y ofertas específicas para transformar visitantes en clientes.
     
       .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
@@ -111,7 +111,7 @@
             figure
               img(src="@/assets/curso/tema4/9.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Fidelización
+            h4.mb-3.text-center Fidelización
             p.mb-0 Mantenimiento de relaciones a largo plazo mediante comunicación constante, contenido personalizado y beneficios exclusivos que incrementen la satisfacción, recompra y recomendación de la marca.
 
     .fullwidth-bg.fullwidth-bg--2
